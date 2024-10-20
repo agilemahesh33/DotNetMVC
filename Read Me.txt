@@ -1,0 +1,11 @@
+To clone and initialize new empty/files/folders repo
+git clone <URL.git>
+git init
+
+To add changes to the repo : 
+===>open git bash where you have initialized files and follow below steps<==== 
+
+git pull
+git add .
+git commit -m "Message"
+git push -u origin main
