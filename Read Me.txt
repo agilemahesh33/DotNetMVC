@@ -9,3 +9,20 @@ git pull
 git add .
 git commit -m "Message"
 git push -u origin main
+
+
+To Clean git / untrack the files 
+git clean -i   // which shows options what to do about the changes
+
+git clean -n   // this shows if we run git clean then this will remove the files listed
+
+git clean -f   // will remove the untracked changes from file
+
+
+Fatal Error reason may be because while adding files to staging the files are open and 
+needs to be closed first and then should be added.
+mrmah@LAPTOP-N9LCSVV9 MINGW64 /d/Dot Net Core NIT/DotNetMVC (main)
+$ git add .
+error: open("Excercise/MVCTestEmptyProject3/.vs/MVCTestEmptyProject3/FileContentIndex/e7f9d8fe-69c2-4949-898d-c5515a3f8638.vsidx"): Permission denied
+error: unable to index file 'Excercise/MVCTestEmptyProject3/.vs/MVCTestEmptyProject3/FileContentIndex/e7f9d8fe-69c2-4949-898d-c5515a3f8638.vsidx'
+fatal: adding files failed

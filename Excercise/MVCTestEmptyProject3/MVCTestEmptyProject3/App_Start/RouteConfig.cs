@@ -23,6 +23,7 @@ namespace MVCTestEmptyProject3
                 url: "MMB/Teachers",
                 defaults: new { Controller = "Teacher", action = "Show" }
             );
+            //Default route should be kept at last
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
