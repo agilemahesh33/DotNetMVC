@@ -20,5 +20,13 @@ namespace MVCActionResults.Controllers
         {
             return View();
         }
+        public ViewResult ForgotPassword()
+        {
+            return View("ForgotPwd");
+        }
+        public ViewResult ResetPassword()
+        {
+            return View("~/Views/Home/ResetPwd.cshtml");
+        }
     }
 }
