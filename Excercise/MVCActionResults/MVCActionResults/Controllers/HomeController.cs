@@ -16,9 +16,17 @@ namespace MVCActionResults.Controllers
         {
             return View();
         }
+        [HttpGet]
         public ViewResult Login()
         {
             return View();
+        }
+        public string Login(string txtUid, string txtPwd)
+        {
+            if (txtUid == "Admin" && txtPwd == "Admin")
+                return "Valid User";
+            else
+                return "Invalid User";
         }
         public ViewResult ForgotPassword()
         {

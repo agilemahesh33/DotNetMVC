@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\mvcactionresults\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\views\\home\\show2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\views\\home\\show2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcactionresults\\mvcactionresults\\views\\home\\show1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48D6A53D-1621-4601-A700-584542171F3E}|MVCActionResults\\MVCActionResults.csproj|solutionrelative:mvcactionresults\\views\\home\\show1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,53 +63,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCActionResults\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCActionResults\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABMAAABAMzMzMzMbwB4AAAAKAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCActionResults\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MVCActionResults\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T01:28:56.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Show2.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Show2.cshtml",
-              "RelativeDocumentMoniker": "MVCActionResults\\Views\\Home\\Show2.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Show2.cshtml",
-              "RelativeToolTip": "MVCActionResults\\Views\\Home\\Show2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T01:27:24.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Show1.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Show1.cshtml",
-              "RelativeDocumentMoniker": "MVCActionResults\\Views\\Home\\Show1.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Views\\Home\\Show1.cshtml",
-              "RelativeToolTip": "MVCActionResults\\Views\\Home\\Show1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T01:27:02.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Global.asax.cs",
-              "RelativeDocumentMoniker": "MVCActionResults\\Global.asax.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Global.asax.cs",
-              "RelativeToolTip": "MVCActionResults\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:12:33.711Z",
+              "WhenOpened": "2024-11-01T03:19:17.153Z",
               "EditorCaption": ""
             },
             {
@@ -132,9 +81,9 @@
               "RelativeDocumentMoniker": "MVCActionResults\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCActionResults\\MVCActionResults\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCActionResults\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAjwDEAAAA1AAAA",
+              "ViewState": "AQIAAA0AAABgZmZmZmYswBsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:35:54.482Z",
+              "WhenOpened": "2024-11-01T03:18:06.059Z",
               "EditorCaption": ""
             }
           ]
