@@ -28,5 +28,27 @@ namespace MVCActionResults.Controllers
         {
             return View("~/Views/Home/ResetPwd.cshtml");
         }
+        public ViewResult Contact()
+        {
+            return View();
+        }
+        public ViewResult Mission()
+        {
+            return View("~/Views/Test/Mission.cshtml");
+        }
+        public ViewResult About()
+        {
+            //return View();                            //Valid Default Web Form engine
+            //return View("~/Views/Home/About.aspx");   //Valid Web Form engine  
+            return View("~/Views/Home/About.cshtml");   //Valid Razor engine
+        }
+        public ViewResult Show(int id)
+        {
+            if (id == 1) 
+                return View("~/Views/Home/Show1.cshtml");
+            else 
+                return View("~/Views/Home/Show2.cshtml");
+
+        }
     }
 }
