@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index2</title>
+</head>
+<body>
+    <div>
+        <table border="1" align="center" width="15%">
+            <caption>Product Details</caption>
+            <tr>
+                <td>Id:</td>
+                <td>@ViewBag.Id</td>
+            </tr>
+            <tr>
+                <td>Name:</td>
+                <td>@ViewData["Name"]</td>
+            </tr>
+            <tr>
+                <td>Price:</td>
+                <td>
+                    @{
+                        //double Price = Convert.ToDouble(ViewData["Price"]);
+                        double Price = ViewBag.Price??0;
+                        Price = Price + (Price * 10 / 100);
+                        @Price
+                    }
+                </td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>
