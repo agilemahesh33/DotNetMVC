@@ -1,0 +1,14 @@
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\bin\Debug\net7.0\DemoDependancyInjection.exe
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\bin\Debug\net7.0\DemoDependancyInjection.deps.json
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\bin\Debug\net7.0\DemoDependancyInjection.runtimeconfig.json
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\bin\Debug\net7.0\DemoDependancyInjection.dll
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\bin\Debug\net7.0\DemoDependancyInjection.pdb
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.AssemblyInfoInputs.cache
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.AssemblyInfo.cs
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.csproj.CoreCompileInputs.cache
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.dll
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\refint\DemoDependancyInjection.dll
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.pdb
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\DemoDependancyInjection.genruntimeconfig.cache
+E:\WEB DEVELOPER\Dot Net Core\Dot Net Temp\DemoDependancyInjection\obj\Debug\net7.0\ref\DemoDependancyInjection.dll
