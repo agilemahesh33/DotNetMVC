@@ -1,0 +1,29 @@
+﻿@model MVCUIDesigning.Models.Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddEmployee</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            Enter Emloyee ID: <br />
+            <input type="text" id="Id" name="Id" /><br />
+            Enter Emloyee Name: <br />
+            <input type="text" id="Name" name="Name" /> <br />
+            Enter Emloyee Job: <br />
+            <input type="text" id="Job" name="Job" /><br />
+            Enter Emloyee Salary: <br />
+            <input type="text" id="Salary" name="Salary" /><br />
+            <input type="submit" value="Save" />
+            <input type="reset" value="Clear" />
+        </form>
+    </div>
+</body>
+</html>

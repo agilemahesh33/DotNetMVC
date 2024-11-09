@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DisplayEmp1</title>
+</head>
+<body>
+    <div>
+        <table border="1" align="center">
+            <caption>Employee Details</caption>
+            <tr>
+                <td>Employee Id: </td>
+                <td>@ViewBag.Id</td>
+            </tr>
+            <tr>
+                <td>Employee Name: </td>
+                <td>@ViewBag.Name</td>
+            </tr>
+            <tr>
+                <td>Employee Job: </td>
+                <td>@ViewBag.Job</td>
+            </tr>
+            <tr>
+                <td>Employee Salary: </td>
+                <td>@ViewBag.Salary</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/Employee/AddEmployee">Add a New Employee</a>
+                </td>
+
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -7,8 +7,8 @@ To add changes to the repo :
 
 git pull
 git add .
-git commit -m "Message"
-git push -u origin main
+git commit -m "Message" -m "Description..."
+git push -u origin main  
 
 
 To Clean git / untrack the files 
