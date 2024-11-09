@@ -1,0 +1,41 @@
+﻿@model MVCUIDesigning.Models.Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddStudentST</title>
+</head>
+<body>
+
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.LabelFor(S => S.Sid);<br />
+            @Html.TextBoxFor(S => S.Sid);<br />
+            @Html.LabelFor(S => S.Name);<br />
+            @Html.TextBoxFor(S => S.Name);<br />
+            @Html.LabelFor(S => S.Class);<br />
+            List<int> li = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            SelectList items = new SelectList(li);
+            @Html.DropDownListFor(S => S.Class, items, "-Select Class-");<br />
+            @Html.LabelFor(S => S.Gender);<br />
+            @Html.RadioButtonFor(S => S.Gender, "Male")@:Male;<br />
+            @Html.RadioButtonFor(S => S.Gender, "Female")@:Female;<br />
+            @Html.RadioButtonFor(S => S.Gender, "Transgender")@:Transgender<br />
+            @Html.LabelFor(S => S.Fees);<br />
+            @Html.TextBoxFor(S => S.Fees);<br />
+            @Html.LabelFor(S => S.Address);<br />
+            @Html.TextAreaFor(S => S.Address, 3, 21, new { });
+            <br /><br />
+            <input type="submit" value="Save" />
+            <input type="reset" value="clear" />
+        }
+
+    </div>
+</body>
+</html>
