@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\employee\\displayemp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\employee\\displayemp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\employee\\displayemp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\employee\\displayemp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\account\\failure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\failure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,67 +70,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisplayEmp2.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\DisplayEmp2.cshtml",
-              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Employee\\DisplayEmp2.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\DisplayEmp2.cshtml",
-              "RelativeToolTip": "MVCUIDesigning\\Views\\Employee\\DisplayEmp2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T03:45:15.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "MVCUIDesigning\\Models\\Employee.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Models\\Employee.cs",
-              "RelativeToolTip": "MVCUIDesigning\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T03:39:08.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DisplayEmp1.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\DisplayEmp1.cshtml",
-              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Employee\\DisplayEmp1.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\DisplayEmp1.cshtml",
-              "RelativeToolTip": "MVCUIDesigning\\Views\\Employee\\DisplayEmp1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T22:44:58.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Employee\\AddEmployee.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeToolTip": "MVCUIDesigning\\Views\\Employee\\AddEmployee.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Title": "Failure.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T22:37:33.828Z",
+              "WhenOpened": "2024-11-09T06:51:35.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "MVCUIDesigning\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAADAMzMzMzPzvw0AAAAJAAAA",
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T06:51:06.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T05:59:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T22:29:41.663Z",
+              "WhenOpened": "2024-11-09T05:03:28.975Z",
               "EditorCaption": ""
             }
           ]
