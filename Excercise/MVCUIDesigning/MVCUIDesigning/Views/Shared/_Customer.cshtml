@@ -1,0 +1,26 @@
+﻿@model MVCUIDesigning.Models.Customer
+<table border="1" align="center">
+    <tr>
+        <td rowspan="6"> <img style="width:100%;height:100%" src="@Url.Content(Model.Photo)" /></td>
+    </tr>
+    <tr>
+        <td>CustId : @Model.CustId </td>
+    </tr>
+
+    <tr>
+        <td> Name : @Model.Name</td>
+    </tr>
+
+    <tr>
+        <td> Account : @Model.Account</td>
+    </tr>
+
+    <tr>
+        <td> Balance : @Model.City</td>
+    </tr>
+
+    <tr>
+        @*<td> Status : @Cust.Status</td>*@
+        <td> Status : @Html.CheckBoxFor(C => Model.Status)</td>
+    </tr>
+</table>

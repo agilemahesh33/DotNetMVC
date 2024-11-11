@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\student\\addstudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\addstudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\customer\\displaycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\customer\\displaycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcuidesigning\\mvcuidesigning\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CFC984-0D46-4061-988E-7830469FBCB1}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +87,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:52:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:51:42.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentST.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:51:39.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:51:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Customer.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Shared\\_Customer.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Shared\\_Customer.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Shared\\_Customer.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Shared\\_Customer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T14:03:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayCustomers.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Customer\\DisplayCustomers.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Customer\\DisplayCustomers.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Customer\\DisplayCustomers.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Customer\\DisplayCustomers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T12:44:08.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:23:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Models\\Customer.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Models\\Customer.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:04:21.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCUIDesigning\\MVCUIDesigning\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:50:15.868Z",
+              "EditorCaption": ""
             }
           ]
         }

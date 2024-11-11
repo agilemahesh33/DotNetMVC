@@ -29,5 +29,10 @@ namespace MVCUIDesigning.Controllers
         {
             return View("DisplayStudentST", student);
         }
+        ////also possible to reun by using http://localhost:50164/Student/Header
+        public PartialViewResult Header()
+        {            
+            return PartialView("_Header");
+        }
     }
 }

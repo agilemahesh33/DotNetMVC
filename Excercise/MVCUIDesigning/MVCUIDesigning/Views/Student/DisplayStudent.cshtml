@@ -11,6 +11,11 @@
     <title>DisplayStudent</title>
 </head>
 <body>
+    @{          
+        string htmlstr = Html.Partial("_Header").ToString().Replace("blueviolet", "red");
+        MvcHtmlString htmlstring = new MvcHtmlString(htmlstr);
+        @htmlstring;
+    }
     <div> 
         <h3>Student Details</h3>
         <ul>
