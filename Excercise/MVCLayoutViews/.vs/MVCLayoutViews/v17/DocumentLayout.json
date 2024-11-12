@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\views\\shared\\_sitemaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\shared\\_sitemaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\views\\employee\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\employee\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvclayoutviews\\mvclayoutviews\\views\\employee\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE7DF87A-4F2D-41E5-96F3-A753AF9AE999}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\employee\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\About.cshtml",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Employee\\About.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\About.cshtml",
+              "RelativeToolTip": "MVCLayoutViews\\Views\\Employee\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:24:50.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Employee\\Login.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Login.cshtml",
+              "RelativeToolTip": "MVCLayoutViews\\Views\\Employee\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:14:18.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Employee\\Register.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "MVCLayoutViews\\Views\\Employee\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:03:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Home.cshtml",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Employee\\Home.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Employee\\Home.cshtml",
+              "RelativeToolTip": "MVCLayoutViews\\Views\\Employee\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T03:31:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCLayoutViews\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:29:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SiteMaster.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
+              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCLayoutViews\\MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
+              "RelativeToolTip": "MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T02:42:52.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
