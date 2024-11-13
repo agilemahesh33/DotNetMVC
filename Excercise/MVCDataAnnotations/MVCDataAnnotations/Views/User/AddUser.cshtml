@@ -1,0 +1,70 @@
+﻿@model MVCDataAnnotations.Models.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddUser</title>
+    <script src="~/Scripts/jquery-3.7.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <style>
+        span {
+            color: red;
+            background-color: yellow;
+            font-style: italic
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <div>
+            @Html.ValidationSummary("", new { @class = "alert alert-danger" })
+        </div>
+        <div>
+            @Html.LabelFor(A => A.Name) <br />
+            @Html.EditorFor(A => A.Name)<br />
+            @Html.ValidationMessageFor(A => A.Name)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.Password) <br />
+            @Html.EditorFor(A => A.Password)<br />
+            @Html.ValidationMessageFor(A => A.Password)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.ConfirmPassword) <br />
+            @Html.EditorFor(A => A.ConfirmPassword)<br />
+            @Html.ValidationMessageFor(A => A.ConfirmPassword)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.DOB) <br />
+            @Html.EditorFor(A => A.DOB)<br />
+            @Html.ValidationMessageFor(A => A.DOB)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.Mobile) <br />
+            @Html.EditorFor(A => A.Mobile)<br />
+            @Html.ValidationMessageFor(A => A.Mobile)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.Email) <br />
+            @Html.EditorFor(A => A.Email) <br />
+            @Html.ValidationMessageFor(A => A.Email)
+        </div>
+        <div>
+            @Html.LabelFor(A => A.Address) <br />
+            @Html.EditorFor(A => A.Address)<br />
+            @Html.ValidationMessageFor(A => A.Address)
+        </div>
+        <div>
+            <input type="submit" value="Save User" class="btn btn-primary" />
+            <input type="reset" value="Clear" class="btn btn-danger" />
+        </div>
+    }
+</body>
+</html>
