@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\actionresultsinmvc\\actionresultsinmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|solutionrelative:actionresultsinmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\actionresultsinmvc\\actionresultsinmvc\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|solutionrelative:actionresultsinmvc\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\actionresultsinmvc\\actionresultsinmvc\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|solutionrelative:actionresultsinmvc\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\actionresultsinmvc\\actionresultsinmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DC0A04-01F9-4229-979D-3869725F0B54}|ActionResultsInMVC\\ActionResultsInMVC.csproj|solutionrelative:actionresultsinmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +67,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ActionResultsInMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ActionResultsInMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T12:06:22.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Views\\Results\\Index.cshtml",
+              "RelativeDocumentMoniker": "ActionResultsInMVC\\Views\\Results\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Views\\Results\\Index.cshtml",
+              "RelativeToolTip": "ActionResultsInMVC\\Views\\Results\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T11:30:31.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "ActionResultsInMVC\\Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "ActionResultsInMVC\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:39:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ActionResultsInMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\ActionResultsInMVC\\ActionResultsInMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "ActionResultsInMVC\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:37:22.327Z",
+              "EditorCaption": ""
             }
           ]
         }
