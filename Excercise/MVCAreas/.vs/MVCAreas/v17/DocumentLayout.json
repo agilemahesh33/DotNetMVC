@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\staff\\staffarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\staff\\staffarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\reports\\reportsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\reports\\reportsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\patient\\patientarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\patient\\patientarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\medicines\\medicinesarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\medicines\\medicinesarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\marketing\\marketingarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\marketing\\marketingarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\labs\\labsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\labs\\labsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\hr\\hrarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\hr\\hrarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\doctors\\doctorsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\doctors\\doctorsarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\billing\\billingarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\billing\\billingarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcareas\\mvcareas\\areas\\insurance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ACDEEF5-A853-4476-9434-82B7F2925488}|MVCAreas\\MVCAreas.csproj|solutionrelative:mvcareas\\areas\\insurance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Staff\\StaffAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Staff\\StaffAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Staff\\StaffAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Staff\\StaffAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Reports\\ReportsAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Reports\\ReportsAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Reports\\ReportsAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Reports\\ReportsAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Patient\\PatientAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Patient\\PatientAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Patient\\PatientAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Patient\\PatientAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicinesAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Medicines\\MedicinesAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Medicines\\MedicinesAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Medicines\\MedicinesAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Medicines\\MedicinesAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarketingAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Marketing\\MarketingAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Marketing\\MarketingAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Marketing\\MarketingAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Marketing\\MarketingAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:15.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabsAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Labs\\LabsAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Labs\\LabsAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Labs\\LabsAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Labs\\LabsAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\HR\\HRAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\HR\\HRAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\HR\\HRAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\HR\\HRAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:41:37.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Doctors\\DoctorsAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Doctors\\DoctorsAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Doctors\\DoctorsAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Doctors\\DoctorsAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:41:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillingAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Billing\\BillingAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Billing\\BillingAreaRegistration.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Billing\\BillingAreaRegistration.cs",
+              "RelativeToolTip": "MVCAreas\\Areas\\Billing\\BillingAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:41:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Insurance\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAreas\\Areas\\Insurance\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAreas\\MVCAreas\\Areas\\Insurance\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCAreas\\Areas\\Insurance\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:40:39.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

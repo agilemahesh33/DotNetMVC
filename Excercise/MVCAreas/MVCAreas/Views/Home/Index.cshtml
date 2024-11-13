@@ -1,0 +1,62 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h2 style="text-align:center;background-color:greenyellow;color:orange;text-decoration:underline">Ayurvedic Hospital</h2>
+        <h2 style="text-align:center;">This is main page</h2>
+        <table align="center" border="1">
+            <tr>
+                <td>
+                    @Html.ActionLink("Patient Area", "Index", "Home", new { Area = "Patient" }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("Doctors Area", "Index", "Home", new { Area = "Doctors" }, null)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.ActionLink("Staff Area", "Index", "Home", new { Area = "Staff" }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("Insurance Area", "Index", "Home", new { Area = "Insurance" }, null)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.ActionLink("Billing Area", "Index", "Home", new { Area = "Billing" }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("Labs Area", "Index", "Home", new { Area = "Labs" }, null)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.ActionLink("Medicines Area", "Index", "Home", new { Area = "Medicines" }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("HR Area", "Index", "Home", new { Area = "HR" }, null)
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.ActionLink("Reports Area", "Index", "Home", new { Area = "Reports" }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("Marketing Area", "Index", "Home", new { Area = "Marketing" }, null)
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
