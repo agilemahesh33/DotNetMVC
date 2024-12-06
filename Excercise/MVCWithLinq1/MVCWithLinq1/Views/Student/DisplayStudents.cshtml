@@ -1,0 +1,35 @@
+﻿@using MVCWithLinq1.Models;
+@model IEnumerable<Student>
+@{
+    ViewBag.Title = "Display Students";
+}
+
+<h2 style="text-align:center;background-color:greenyellow;color:orangered">Student Details</h2>
+<table border="1" align="center" class="table-bordered">
+    <tr>
+        <th>@Html.DisplayNameFor(S => S.Sid)</th>
+        <th>@Html.DisplayNameFor(S => S.Name)</th>
+        <th>@Html.DisplayNameFor(S => S.Class)</th>
+        <th>@Html.DisplayNameFor(S => S.Fees)</th>
+        <th>@Html.DisplayNameFor(S => S.Photo)</th>
+        <th colspan="3" align="center">Actions</th>
+    </tr>
+    @foreach (var stud in Model)
+    {
+        <tr>
+            <td align="center">@stud.Sid</td>
+            <td align="center">@stud.Name</td>
+            <td align="center">@stud.Class</td>
+            <td align="center">@stud.Fees</td>
+            <td align="center"><img alt="No Image" src="/Uploads/@stud.Photo" width="40" height="40"</td>
+            <td>@Html.ActionLink("View", "DisplayStudent", new { Sid = @stud.Sid })</td>
+            <td>@Html.ActionLink("Edit", "EditStudent", new { Sid = @stud.Sid })</td>
+            <td>@Html.ActionLink("Delete", "DeleteStudent", new { Sid = @stud.Sid }, new { onclick = "return confirm('Are you sure?')" })</td>
+        </tr>
+    }
+    <tr>
+        <td colspan="9" align="center">
+            @Html.ActionLink("Add New", "AddStudent")
+        </td>
+    </tr>
+</table>

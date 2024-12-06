@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\mvcdataannotations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|solutionrelative:mvcdataannotations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdataannotations\\mvcdataannotations\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|solutionrelative:mvcdataannotations\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\mvcdataannotations\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|solutionrelative:mvcdataannotations\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\mvcdataannotations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E948B231-A920-4591-BA28-FAABC77FB1B1}|MVCDataAnnotations\\MVCDataAnnotations.csproj|solutionrelative:mvcdataannotations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,39 +66,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddUser.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Views\\User\\AddUser.cshtml",
               "RelativeDocumentMoniker": "MVCDataAnnotations\\Views\\User\\AddUser.cshtml",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Views\\User\\AddUser.cshtml",
               "RelativeToolTip": "MVCDataAnnotations\\Views\\User\\AddUser.cshtml",
-              "ViewState": "AgIAABUAAACAm5mZmZkBwB0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T09:58:41.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MVCDataAnnotations\\Controllers\\UserController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Controllers\\UserController.cs",
               "RelativeToolTip": "MVCDataAnnotations\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T09:34:20.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Models\\User.cs",
               "RelativeDocumentMoniker": "MVCDataAnnotations\\Models\\User.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDataAnnotations\\MVCDataAnnotations\\Models\\User.cs",
               "RelativeToolTip": "MVCDataAnnotations\\Models\\User.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAADw//////80wCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T09:07:29.473Z",
               "EditorCaption": ""

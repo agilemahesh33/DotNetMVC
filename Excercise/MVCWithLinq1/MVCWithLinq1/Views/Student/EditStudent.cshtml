@@ -1,0 +1,34 @@
+﻿@model MVCWithLinq1.Models.Student
+@{
+    ViewBag.Title = "EditStudent";
+}
+
+<h2 style="background-color:greenyellow;color:orangered;align-content:center">Edit Student</h2>
+@using (Html.BeginForm("EditStudent", "Student", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>
+        @Html.LabelFor(S => S.Sid)<br />
+        @Html.TextBoxFor(S => S.Sid)
+    </div>
+    <div>
+        @Html.LabelFor(S => S.Name) <br />
+        @Html.TextBoxFor(S => S.Name)
+    </div>
+    <div>
+        @Html.LabelFor(S => S.Class) <br />
+        @Html.TextBoxFor(S => S.Class)
+    </div>
+    <div>
+        @Html.LabelFor(S => S.Fees) <br />
+        @Html.TextBoxFor(S => S.Fees)
+    </div>
+    <div>
+        @Html.LabelFor(S => S.Photo) <br />
+        <img src='~/Uploads/@Model.Photo' alt="No Image" width="100" height="100" />
+        <input type="file" name="SelectedFile" />
+    </div>
+    <div>
+        <input type="submit" value="Update" />
+        @Html.ActionLink("Cancel", "DisplayStudents")
+    </div>
+}
