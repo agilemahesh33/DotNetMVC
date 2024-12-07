@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MVCDB" Class="MVCDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Function Name="dbo.Student_Insert" Method="Student_Insert">
+    <Parameter Name="Sid" Parameter="sid" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Class" Parameter="class" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fees" Parameter="fees" Type="System.Decimal" DbType="Money" />
+    <Parameter Name="Photo" Parameter="photo" Type="System.String" DbType="VarChar(100)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.Student_Select" Method="Student_Select">
+    <Parameter Name="Sid" Parameter="sid" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Status" Parameter="status" Type="System.Boolean" DbType="Bit" />
+    <ElementType Name="Student_SelectResult">
+      <Column Name="Sid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Class" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fees" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Photo" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Student_Update" Method="Student_Update">
+    <Parameter Name="Sid" Parameter="sid" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Class" Parameter="class" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fees" Parameter="fees" Type="System.Decimal" DbType="Money" />
+    <Parameter Name="Photo" Parameter="photo" Type="System.String" DbType="VarChar(100)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.Student_Delete" Method="Student_Delete">
+    <Parameter Name="Sid" Parameter="sid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

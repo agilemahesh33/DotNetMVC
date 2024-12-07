@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq1\\mvcwithlinq1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|solutionrelative:mvcwithlinq1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq1\\mvcwithlinq1\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|solutionrelative:mvcwithlinq1\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq1\\mvcwithlinq1\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|solutionrelative:mvcwithlinq1\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq1\\mvcwithlinq1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|solutionrelative:mvcwithlinq1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5624F784-C39A-4F37-89C9-E6CA995B165C}|MVCWithLinq1\\MVCWithLinq1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq1\\mvcwithlinq1\\models\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EditStudent.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\MVCWithLinq1\\Views\\Student\\EditStudent.cshtml",
               "RelativeDocumentMoniker": "MVCWithLinq1\\Views\\Student\\EditStudent.cshtml",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DisplayStudents.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\MVCWithLinq1\\Views\\Student\\DisplayStudents.cshtml",
               "RelativeDocumentMoniker": "MVCWithLinq1\\Views\\Student\\DisplayStudents.cshtml",
@@ -138,20 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\MVCWithLinq1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "MVCWithLinq1\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\MVCWithLinq1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "MVCWithLinq1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAEwFEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAIAxwDMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T14:58:23.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DisplayStudent.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq1\\MVCWithLinq1\\Views\\Student\\DisplayStudent.cshtml",
               "RelativeDocumentMoniker": "MVCWithLinq1\\Views\\Student\\DisplayStudent.cshtml",

@@ -1,0 +1,36 @@
+﻿@model MVCWithLinq2.Models.Student_SelectResult
+
+@{
+    ViewBag.Title = "DisplayStudent";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Display Student</h2>
+@*@using (Html.BeginForm("EditStudent", "Student", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {*@
+<table border="1" align="center" class="table-bordered">
+    <tr>
+        <td rowspan="4">
+            <img src='~/Uploads/@Model.Photo' width="200" height="200" alt="No Image" />
+        </td>
+        <td>Sid : @Model.Sid</td>
+    </tr>
+    <tr>
+        <td>
+            Name : @Model.Name
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Class : @Model.Class
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Fees : @Model.Fees
+        </td>
+    </tr>
+    <tr>
+        <td align="center">@Html.ActionLink("Edit", "EditStudent", new { Model.Sid })</td>
+        <td align="center">@Html.ActionLink("Home", "DisplayStudents")</td>
+    </tr>
+</table>
+@*}*@
