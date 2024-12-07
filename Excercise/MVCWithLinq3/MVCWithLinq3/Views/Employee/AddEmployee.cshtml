@@ -1,0 +1,32 @@
+﻿@model MVCWithLinq3.Models.EmpDept
+@{
+    ViewBag.Title = "AddEmployee";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Add New Employee</h2>
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(E => E.EId) <br />
+        @Html.TextBoxFor(E => E.EId)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.EName) <br />
+        @Html.TextBoxFor(E => E.EName)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.Job) <br />
+        @Html.TextBoxFor(E => E.Job)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.Salary) <br />
+        @Html.TextBoxFor(E => E.Salary)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.DName) <br />
+        @Html.DropDownListFor(E => E.DName,Model.Departments,"Select Department")
+    </div>
+    <div>
+        <input type="submit" value="Save" />
+        <input type="reset" value="Reset" />
+    </div>
+}

@@ -1,0 +1,35 @@
+﻿@model MVCWithLinq3.Models.EmpDept
+@{
+    ViewBag.Title = "DisplayEmployee";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Display Employee</h2>
+<table border="1" align="center">
+    <tr>
+        <td>Eid : </td>
+        <td>@Model.EId</td>
+    </tr>
+    <tr>
+        <td>EName : </td>
+        <td>@Model.EName</td>
+    </tr>
+    <tr>
+        <td>Job : </td>
+        <td>@Model.Job</td>
+    </tr>
+    <tr>
+        <td>Salary : </td>
+        <td>@Model.Salary</td>
+    </tr>
+    <tr>
+        <td>DID : </td>
+        <td>@Model.Did</td>
+    </tr>
+    <tr>
+        <td>DName : </td>
+        <td>@Model.DName</td>
+    </tr>
+    <tr>
+        <td>Location : </td>
+        <td>@Model.DLocation</td>
+    </tr>
+</table>

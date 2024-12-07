@@ -1,0 +1,65 @@
+﻿@model IEnumerable<MVCWithLinq3.Models.EmpDept>
+@{
+    ViewBag.Title = "DisplayEmployees";
+}
+<h2 style="background-color:greenyellow;align-content:center; color:orangered;">DisplayEmployees</h2>
+<table border="1" align="center">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(E => E.EId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.EName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Job)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Did)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.DName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.DLocation)
+        </th>
+    </tr>
+    @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(E => item.EId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.EName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.Job)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.Salary)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.Did)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.DName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(E => item.DLocation)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Show","DisplayEmployee", new {Eid = item.EId})
+                        @Html.ActionLink("Edit","EditEmployee", new {Eid = item.EId})
+                        @Html.ActionLink("Delete" , "DeleteEmployee", new {Eid = item.EId}, new {onclick = "return confirm('Are you Sure ?')"})
+                    </td>
+                </tr>    
+                <tr>
+                    <td>@Html.ActionLink("Add Employee","AddEmployee")</td>
+                </tr>
+            }
+</table>
+
