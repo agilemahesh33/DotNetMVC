@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf1\\mvcwithefdbf1\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|solutionrelative:mvcwithefdbf1\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.edmx",
+              "RelativeDocumentMoniker": "MVCWithEFDBF1\\Models\\TestEF.edmx",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.edmx [Diagram1]",
+              "RelativeToolTip": "MVCWithEFDBF1\\Models\\TestEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-08T15:24:21.912Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
