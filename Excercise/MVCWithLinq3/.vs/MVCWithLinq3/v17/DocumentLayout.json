@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\employee\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\models\\mvcdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\models\\mvcdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\mvcwithlinq3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\models\\empdept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\mvcwithlinq3\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\mvcwithlinq3\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\models\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\mvcwithlinq3\\models\\empdept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\models\\empdept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithlinq3\\mvcwithlinq3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B63809C3-4881-49D1-B70E-E1879B0505CE}|MVCWithLinq3\\MVCWithLinq3.csproj|solutionrelative:mvcwithlinq3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,51 +83,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:34:38.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DisplayEmployee.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployee.cshtml",
               "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\DisplayEmployee.cshtml",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployee.cshtml",
               "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\DisplayEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAMzMzMzMLwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T11:39:00.396Z",
+              "WhenOpened": "2024-12-08T07:58:34.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCWithLinq3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "EditEmployee.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\EditEmployee.cshtml",
+              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\EditEmployee.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\EditEmployee.cshtml",
+              "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\EditEmployee.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T10:23:31.558Z",
+              "WhenOpened": "2024-12-08T05:21:56.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeDAL.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Models\\EmployeeDAL.cs",
               "RelativeDocumentMoniker": "MVCWithLinq3\\Models\\EmployeeDAL.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Models\\EmployeeDAL.cs",
               "RelativeToolTip": "MVCWithLinq3\\Models\\EmployeeDAL.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAYwGIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwH4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T07:03:52.68Z",
               "EditorCaption": ""
@@ -150,58 +129,45 @@
               "RelativeToolTip": "MVCWithLinq3\\Models\\EmpDept.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T06:13:00.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T06:13:00.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DisplayEmployees.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
-              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
-              "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
-              "ViewState": "AgIAACUAAAAAMzMzMzMLwDwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T06:11:37.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MVCWithLinq3\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "MVCWithLinq3\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T06:10:34.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Web.config",
-              "RelativeDocumentMoniker": "MVCWithLinq3\\Web.config",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Web.config",
-              "RelativeToolTip": "MVCWithLinq3\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-07T06:06:47.066Z",
+              "DocumentIndex": 2,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T16:34:38.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MVCDB.dbml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Models\\MVCDB.dbml",
-              "RelativeDocumentMoniker": "MVCWithLinq3\\Models\\MVCDB.dbml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Models\\MVCDB.dbml",
-              "RelativeToolTip": "MVCWithLinq3\\Models\\MVCDB.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-12-07T06:04:33.82Z",
+              "DocumentIndex": 3,
+              "Title": "DisplayEmployees.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
+              "RelativeDocumentMoniker": "MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithLinq3\\MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
+              "RelativeToolTip": "MVCWithLinq3\\Views\\Employee\\DisplayEmployees.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T06:11:37.338Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,33 @@
+﻿@model MVCWithLinq3.Models.EmpDept
+@{
+    ViewBag.Title = "EditEmployee";
+}
+<h2 style="background-color:greenyellow;align-content:center; color:orangered;">Edit Employee</h2>
+@using (Html.BeginForm("EditEmployee", "Employee"))
+{
+    <div>
+        @Html.LabelFor(E => E.EId) <br />
+        @Html.TextBoxFor(E => E.EId, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => E.EName) <br />
+        @Html.TextBoxFor(E => E.EName)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.Job) <br />
+        @Html.TextBoxFor(E => E.Job)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.Salary) <br />
+        @Html.TextBoxFor(E => E.Salary)
+    </div>
+    <div>
+        @Html.LabelFor(E => E.Departments) <br />
+        @Html.DropDownListFor(E => E.Did, Model.Departments)
+    </div>
+    <div>
+        <input type="submit" value="Update" />
+        @Html.ActionLink("Cancel", "DisplayEmployees")
+    </div>
+}
+

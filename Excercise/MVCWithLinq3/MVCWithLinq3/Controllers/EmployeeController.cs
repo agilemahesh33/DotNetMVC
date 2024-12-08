@@ -12,14 +12,15 @@ namespace MVCWithLinq3.Controllers
         EmployeeDAL dal = new EmployeeDAL();
         public ViewResult DisplayEmployees()
         {
-            var Emps = dal.GetEmployees(null);
+            var Emps = dal.GetEmployees(true);
             return View(Emps);
         }
         public ViewResult DisplayEmployee(int Eid)
         {
-            var Emps = dal.GetEmployee(Eid,true);
+            var Emps = dal.GetEmployee(Eid, true);
             return View(Emps);
         }
+        [HttpGet]
         public ViewResult AddEmployee()
         {
             //To Load Department List with Did
@@ -27,10 +28,29 @@ namespace MVCWithLinq3.Controllers
             dept.Departments = dal.GetDepartments();
             return View(dept);
         }
-        [HttpGet]
-        public RedirectToRouteResult EditEmployee (int Eid)
+        [HttpPost]
+        public RedirectToRouteResult AddEmployee(EmpDept emp)
         {
-            return RedirectToAction("");
+            dal.InsertEmployee(emp);
+            return RedirectToAction("DisplayEmployees");
+        }
+        [HttpGet]
+        public ViewResult EditEmployee(int Eid)
+        {
+            EmpDept Emp = dal.GetEmployee(Eid, true);
+            Emp.Departments = dal.GetDepartments();
+            return View(Emp);
+        }
+        [HttpPost]
+        public RedirectToRouteResult EditEmployee(EmpDept emp)
+        {
+            dal.UpdateEmployee(emp);
+            return RedirectToAction("DisplayEmployees");
+        }
+        public RedirectToRouteResult DeleteEmployee(int Eid)
+        {
+            dal.DeleteEmployee(Eid);
+            return RedirectToAction("DisplayEmployees");
         }
     }
 }

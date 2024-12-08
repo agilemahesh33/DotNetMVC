@@ -21,9 +21,9 @@ namespace MVCWithLinq3.Models
                     Results = from E in dc.Employees
                               join D in dc.Departments on E.Did equals D.Did
                               select new
-                              { E.Eid, E.Ename, E.Job, E.Salary, D.Did, D.Dname, D.Location };
+                              { E.Eid, E.Ename, E.Job, E.Salary, E.Did, D.Dname, D.Location };
                 else
-                    Results = from E in dc.Employees join D in dc.Departments on E.Did equals D.Did where E.Status == Status select new { E.Eid, E.Ename, E.Job, E.Salary, D.Did, D.Dname, D.Location };
+                    Results = from E in dc.Employees join D in dc.Departments on E.Did equals D.Did where E.Status == Status select new { E.Eid, E.Ename, E.Job, E.Salary, E.Did, D.Dname, D.Location };
                 List<EmpDept> Emps = new List<EmpDept>();
                 foreach (var emp in Results)
                 {
@@ -59,10 +59,10 @@ namespace MVCWithLinq3.Models
                              select new { E.Eid, E.Ename, E.Job, E.Salary, D.Did, D.Dname, D.Location };
                 else
                     Result = (from E in dc.Employees
-                          join D in dc.Departments on E.Did equals D.Did
-                          where
-                          E.Eid == Eid && E.Status == Status
-                          select new { E.Eid, E.Ename, E.Job, E.Salary, D.Did, D.Dname, D.Location }).Single();
+                              join D in dc.Departments on E.Did equals D.Did
+                              where
+                              E.Eid == Eid && E.Status == Status
+                              select new { E.Eid, E.Ename, E.Job, E.Salary, D.Did, D.Dname, D.Location }).Single();
                 EmpDept Emps = new EmpDept()
                 {
                     EId = Result.Eid,
@@ -80,7 +80,6 @@ namespace MVCWithLinq3.Models
                 throw ex;
             }
         }
-
         public List<SelectListItem> GetDepartments()
         {
             try
@@ -97,6 +96,56 @@ namespace MVCWithLinq3.Models
                     DList.Add(sl);
                 }
                 return DList;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public void InsertEmployee(EmpDept Emp)
+        {
+            try
+            {
+                Employee emp = new Employee()
+                {
+                    Ename = Emp.EName,
+                    Salary = Emp.Salary,
+                    Job = Emp.Job,
+                    Did = Emp.Did,
+                    Status = true
+                };
+                dc.Employees.InsertOnSubmit(emp);
+                dc.SubmitChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public void UpdateEmployee(EmpDept Emp)
+        {
+            try
+            {
+                Employee emp = dc.Employees.First(E => E.Eid == Emp.EId);
+                emp.Ename = Emp.EName;
+                emp.Job = Emp.Job;
+                emp.Salary = Emp.Salary;
+                emp.Did = Emp.Did;
+                dc.SubmitChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public void DeleteEmployee(int EID)
+        {
+            try
+            {
+                Employee emp = dc.Employees.First(E => E.Eid == EID);
+                emp.Status = false;
+                dc.SubmitChanges();
             }
             catch (Exception ex)
             {

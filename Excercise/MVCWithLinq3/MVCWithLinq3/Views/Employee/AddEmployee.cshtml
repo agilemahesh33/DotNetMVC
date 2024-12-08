@@ -6,10 +6,6 @@
 @using (Html.BeginForm())
 {
     <div>
-        @Html.LabelFor(E => E.EId) <br />
-        @Html.TextBoxFor(E => E.EId)
-    </div>
-    <div>
         @Html.LabelFor(E => E.EName) <br />
         @Html.TextBoxFor(E => E.EName)
     </div>
@@ -23,7 +19,7 @@
     </div>
     <div>
         @Html.LabelFor(E => E.DName) <br />
-        @Html.DropDownListFor(E => E.DName,Model.Departments,"Select Department")
+        @Html.DropDownListFor(E => E.Did,Model.Departments,"Select Department")
     </div>
     <div>
         <input type="submit" value="Save" />

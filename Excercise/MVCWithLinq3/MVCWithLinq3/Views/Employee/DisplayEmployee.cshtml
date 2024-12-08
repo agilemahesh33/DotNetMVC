@@ -32,4 +32,8 @@
         <td>Location : </td>
         <td>@Model.DLocation</td>
     </tr>
+    <tr>
+        <td>@Html.ActionLink("Home", "DisplayEmployees")</td>
+        <td>@Html.ActionLink("Edit", "EditEmployee",new {Model.EId})</td>
+    </tr>
 </table>
