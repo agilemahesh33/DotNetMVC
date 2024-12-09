@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf1\\mvcwithefdbf1\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf1\\mvcwithefdbf1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|solutionrelative:mvcwithefdbf1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf1\\mvcwithefdbf1\\models\\testef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|solutionrelative:mvcwithefdbf1\\models\\testef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\mvcwithefdbf1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|solutionrelative:mvcwithefdbf1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\mvcwithefdbf1\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{D6E38364-DB93-4D55-8AE9-620CC4984EDF}|MVCWithEFDBF1\\MVCWithEFDBF1.csproj|solutionrelative:mvcwithefdbf1\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -59,14 +71,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFDBF1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCWithEFDBF1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:17:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestEF.Context.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.Context.cs",
+              "RelativeDocumentMoniker": "MVCWithEFDBF1\\Models\\TestEF.Context.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.Context.cs",
+              "RelativeToolTip": "MVCWithEFDBF1\\Models\\TestEF.Context.cs",
+              "ViewState": "AgIAAAgAAABAMzMzMzMbwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:28:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Web.config",
+              "RelativeDocumentMoniker": "MVCWithEFDBF1\\Web.config",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Web.config",
+              "RelativeToolTip": "MVCWithEFDBF1\\Web.config",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-08T15:26:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TestEF.edmx [Diagram1]",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.edmx",
               "RelativeDocumentMoniker": "MVCWithEFDBF1\\Models\\TestEF.edmx",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF1\\MVCWithEFDBF1\\Models\\TestEF.edmx [Diagram1]",
               "RelativeToolTip": "MVCWithEFDBF1\\Models\\TestEF.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-08T15:24:21.912Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-12-08T15:24:21.912Z"
             }
           ]
         }
