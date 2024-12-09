@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MVCWithEFDBF2.Models.Employee>
+@{
+    ViewBag.Title = "DisplayEmployees";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Display Employees</h2>
+<p>
+    @Html.ActionLink("Add New Employee", "AddNewEmployee")
+</p>
+<table border="1" align="center">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(E => E.Eid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Ename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Job)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Department.Dname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(E => E.Department.Location)
+        </th>
+    </tr>
+    @foreach (var Emp in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(E => Emp.Eid)</td>
+            <td>@Html.DisplayFor(E => Emp.Ename)</td>
+            <td>@Html.DisplayFor(E => Emp.Job)</td>
+            <td>@Html.DisplayFor(E => Emp.Salary)</td>
+            <td>@Html.DisplayFor(E => Emp.Department.Dname)</td>
+            <td>@Html.DisplayFor(E => Emp.Department.Location)</td>
+            <td>
+                @Html.ActionLink("Display", "DisplayEmployee", new { empid = Emp.Eid })|
+                @Html.ActionLink("Edit", "EditEmployee", new { empid = Emp.Eid }) |
+                @Html.ActionLink("Delete", "DeleteEmployee", new { empid = Emp.Eid })
+            </td>
+        </tr>
+
+    }
+</table>

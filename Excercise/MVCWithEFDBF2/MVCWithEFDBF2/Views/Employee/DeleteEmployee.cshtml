@@ -1,0 +1,34 @@
+﻿@model MVCWithEFDBF2.Models.Employee
+
+@{
+    ViewBag.Title = "DeleteEmployee";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Delete Employee</h2>
+
+@using (Html.BeginForm("DeleteEmployee", "Employee"))
+{
+    <div>
+        @Html.LabelFor(E => Model.Eid)<br />
+        @Html.TextBoxFor(E => Model.Eid, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Ename)<br />
+        @Html.TextBoxFor(E => Model.Ename, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Job)<br />
+        @Html.TextBoxFor(E => Model.Job, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Salary)<br />
+        @Html.TextBoxFor(E => Model.Salary, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Department.Dname)<br />        
+        @Html.TextBoxFor(E => Model.Department.Dname, new { @readonly = true })
+    </div>
+    <div>
+        <input type="submit" value="Delete" />
+        @Html.ActionLink("Cancel", "DisplayEmployees")
+    </div>
+}

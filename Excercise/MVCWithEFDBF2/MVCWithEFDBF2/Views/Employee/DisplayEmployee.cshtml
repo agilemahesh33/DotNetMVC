@@ -1,0 +1,63 @@
+﻿@model MVCWithEFDBF2.Models.Employee
+@{
+    ViewBag.Title = "DisplayEmployee";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Display Employee</h2>
+<table border="1" align="center">
+    <tr>
+        <td>
+            Emp ID :
+        </td>
+        <td>
+            @Model.Eid
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Name :
+        </td>
+        <td>
+            @Model.Ename
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Job :
+        </td>
+        <td>
+            @Model.Job
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Salary :
+        </td>
+        <td>
+            @Model.Salary
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Department :
+        </td>
+        <td>
+            @Model.Department.Dname
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Location :
+        </td>
+        <td>
+            @Model.Department.Location
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Back to List", "DisplayEmployees")
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditEmployee")
+        </td>
+    </tr>
+</table>

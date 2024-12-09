@@ -1,0 +1,32 @@
+﻿@model MVCWithEFDBF2.Models.Employee
+@{
+    ViewBag.Title = "EditEmployee";
+}
+<h2 style="background-color:greenyellow;text-align:center; color:orangered;">Edit Employee</h2>
+@using (Html.BeginForm("EditEmployee","Employee"))
+{
+    <div>
+        @Html.LabelFor(E => Model.Eid)<br />
+        @Html.TextBoxFor(E => Model.Eid, new { @readonly = true })
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Ename)<br />
+        @Html.TextBoxFor(E => Model.Ename)
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Job)<br />
+        @Html.TextBoxFor(E => Model.Job)
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Salary)<br />
+        @Html.TextBoxFor(E => Model.Salary)
+    </div>
+    <div>
+        @Html.LabelFor(E => Model.Department.Dname)<br />
+        @Html.DropDownList("DId")
+    </div>
+    <div>
+        <input type="submit" value="Update" />
+        @Html.ActionLink("Cancel","DisplayEmployees")
+    </div>
+}
