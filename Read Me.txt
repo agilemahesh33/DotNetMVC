@@ -2,7 +2,7 @@ To clone and initialize new empty/files/folders repo
 git clone <URL.git>
 git init
 
-To add changes to the repo : 
+To add changes to the repo All at a time: 
 ===>open git bash where you have initialized files and follow below steps<==== 
 
 git pull
@@ -10,6 +10,15 @@ git add .
 git commit -m "Message" -m "Description..."
 git push -u origin main  
 
+To add Single folder changes to the repo at a time: 
+===>open git bash where you have initialized files and follow below steps<==== 
+
+git pull
+git add "Excercise\MVCWithLinq3"
+git commit -m "Message" -m "Description..."
+git push -u origin main  
+
+===========
 
 To Clean git / untrack the files 
 git clean -i   // which shows options what to do about the changes

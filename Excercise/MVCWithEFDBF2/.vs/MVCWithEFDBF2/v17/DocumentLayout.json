@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\views\\employee\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\views\\employee\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\views\\employee\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\views\\employee\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\views\\employee\\addnewemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\views\\employee\\addnewemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\views\\employee\\addnewemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf2\\mvcwithefdbf2\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\mvcwithefdbf2\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{8ACBE723-F59B-4C1E-94CF-73541EDED320}|MVCWithEFDBF2\\MVCWithEFDBF2.csproj|solutionrelative:mvcwithefdbf2\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -38,20 +42,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "MVCWithEFDBF2\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADYAAAAAMjMzMzMLwEIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAMjMzMzMLwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T05:22:14.941Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Web.config",
+              "RelativeDocumentMoniker": "MVCWithEFDBF2\\Web.config",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Web.config",
+              "RelativeToolTip": "MVCWithEFDBF2\\Web.config",
+              "ViewState": "AgIAAC4AAACAMzMzMzMrwD8AAAAwAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T15:06:46.392Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DisplayEmployee.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Views\\Employee\\DisplayEmployee.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Views\\Employee\\DisplayEmployee.cshtml",
@@ -104,12 +121,11 @@
               "RelativeToolTip": "MVCWithEFDBF2\\Views\\Employee\\DisplayEmployee.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T12:00:24.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T12:00:24.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DeleteEmployee.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Views\\Employee\\DeleteEmployee.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Views\\Employee\\DeleteEmployee.cshtml",
@@ -117,12 +133,11 @@
               "RelativeToolTip": "MVCWithEFDBF2\\Views\\Employee\\DeleteEmployee.cshtml",
               "ViewState": "AgIAAAQAAADAMjMzMzMLwBwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T11:05:44.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T11:05:44.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DisplayEmployees.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Views\\Employee\\DisplayEmployees.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Views\\Employee\\DisplayEmployees.cshtml",
@@ -130,12 +145,11 @@
               "RelativeToolTip": "MVCWithEFDBF2\\Views\\Employee\\DisplayEmployees.cshtml",
               "ViewState": "AgIAABoAAAAAMzMzMzMrwCMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:29:56.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:29:56.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EditEmployee.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Views\\Employee\\EditEmployee.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Views\\Employee\\EditEmployee.cshtml",
@@ -143,12 +157,11 @@
               "RelativeToolTip": "MVCWithEFDBF2\\Views\\Employee\\EditEmployee.cshtml",
               "ViewState": "AgIAAAUAAAAQMzMzMzMbwBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T08:53:06.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:53:06.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AddNewEmployee.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Views\\Employee\\AddNewEmployee.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Views\\Employee\\AddNewEmployee.cshtml",
@@ -156,20 +169,18 @@
               "RelativeToolTip": "MVCWithEFDBF2\\Views\\Employee\\AddNewEmployee.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T07:19:05.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T07:19:05.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TestEF.edmx [Diagram1]",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Models\\TestEF.edmx",
               "RelativeDocumentMoniker": "MVCWithEFDBF2\\Models\\TestEF.edmx",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF2\\MVCWithEFDBF2\\Models\\TestEF.edmx [Diagram1]",
               "RelativeToolTip": "MVCWithEFDBF2\\Models\\TestEF.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-09T04:54:16.998Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-12-09T04:54:16.998Z"
             }
           ]
         }
