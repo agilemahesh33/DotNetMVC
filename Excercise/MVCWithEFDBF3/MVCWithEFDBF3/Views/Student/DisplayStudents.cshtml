@@ -2,6 +2,30 @@
 @{
     ViewBag.Title = "DisplayStudents";
 }
-
-<h2>DisplayStudents</h2>
-
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Student Details</h2>
+<table border="1" align="center">
+    <tr>
+        <th>@Html.DisplayNameFor(S => S.Sid)</th>
+        <th>@Html.DisplayNameFor(S => S.Name)</th>
+        <th>@Html.DisplayNameFor(S => S.Class)</th>
+        <th>@Html.DisplayNameFor(S => S.Fees)</th>
+        <th>@Html.DisplayNameFor(S => S.Photo)</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var Student in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(S => Student.Sid)</td>
+            <td>@Html.DisplayFor(S => Student.Name)</td>
+            <td>@Html.DisplayFor(S => Student.Class)</td>
+            <td>@Html.DisplayFor(S => Student.Fees)</td>
+            <td><img src='/Uploads/@Student.Photo' width="85" height="30" alt="No Image" /></td>
+            <td>
+                @Html.ActionLink("View", "DisplayStudent", new { Sid = Student.Sid })
+                @Html.ActionLink("Edit", "EditStudent", new { Sid = Student.Sid })
+                @Html.ActionLink("Delete", "DeleteStudent", new { Sid = Student.Sid })
+            </td>
+        </tr>
+    }
+    <tr><td colspan="6" align="center">@Html.ActionLink("Add New Student", "AddStudent")</td></tr>
+</table>

@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\mvcwithefdbf3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefdbf3\\mvcwithefdbf3\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\mvcwithefdbf3\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{37A947D7-281D-4D55-B1AB-956947319808}|MVCWithEFDBF3\\MVCWithEFDBF3.csproj|solutionrelative:mvcwithefdbf3\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,13 +82,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFDBF3\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "MVCWithEFDBF3\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAEAAABgMzMzMzMLwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T23:35:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFDBF3\\Views\\Student\\DisplayStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeToolTip": "MVCWithEFDBF3\\Views\\Student\\DisplayStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T23:11:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisplayStudents.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DisplayStudents.cshtml",
               "RelativeDocumentMoniker": "MVCWithEFDBF3\\Views\\Student\\DisplayStudents.cshtml",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DisplayStudents.cshtml",
               "RelativeToolTip": "MVCWithEFDBF3\\Views\\Student\\DisplayStudents.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T15:34:51.554Z",
               "EditorCaption": ""
@@ -85,14 +127,40 @@
               "RelativeDocumentMoniker": "MVCWithEFDBF3\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Controllers\\StudentController.cs",
               "RelativeToolTip": "MVCWithEFDBF3\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T15:32:14.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFDBF3\\Views\\Student\\DeleteStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeToolTip": "MVCWithEFDBF3\\Views\\Student\\DeleteStudent.cshtml",
+              "ViewState": "AgIAAA0AAAAAMzMzMzMLwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T01:11:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFDBF3\\Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Views\\Student\\EditStudent.cshtml",
+              "RelativeToolTip": "MVCWithEFDBF3\\Views\\Student\\EditStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T00:55:28.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TestEF.edmx [Diagram1]",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFDBF3\\MVCWithEFDBF3\\Models\\TestEF.edmx",
               "RelativeDocumentMoniker": "MVCWithEFDBF3\\Models\\TestEF.edmx",

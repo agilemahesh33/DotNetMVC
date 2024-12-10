@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MVCDBEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="Student_Delete">
+      <Parameter Name="Sid" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="Student_Insert">
+      <Parameter Name="Sid" Mode="In" Type="Int32" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Class" Mode="In" Type="Int32" />
+      <Parameter Name="Fees" Mode="In" Type="Decimal" />
+      <Parameter Name="Photo" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Student_Select" ReturnType="Collection(MVCDBModel.Student_Select_Result)">
+      <Parameter Name="Sid" Mode="In" Type="Int32" />
+      <Parameter Name="Status" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="Student_Update">
+      <Parameter Name="Sid" Mode="In" Type="Int32" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Class" Mode="In" Type="Int32" />
+      <Parameter Name="Fees" Mode="In" Type="Decimal" />
+      <Parameter Name="Photo" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="Student_Select_Result">
+    <Property Type="Int32" Name="Sid" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="Class" Nullable="true" />
+    <Property Type="Decimal" Name="Fees" Nullable="true" Precision="19" />
+    <Property Type="String" Name="Photo" Nullable="true" MaxLength="100" />
+  </ComplexType>
+</Schema>

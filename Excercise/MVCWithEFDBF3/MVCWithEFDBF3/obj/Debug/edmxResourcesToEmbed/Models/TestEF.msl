@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MVCDBModelStoreContainer" CdmEntityContainer="MVCDBEntities">
+    <FunctionImportMapping FunctionImportName="Student_Delete" FunctionName="MVCDBModel.Store.Student_Delete" />
+    <FunctionImportMapping FunctionImportName="Student_Insert" FunctionName="MVCDBModel.Store.Student_Insert" />
+    <FunctionImportMapping FunctionImportName="Student_Select" FunctionName="MVCDBModel.Store.Student_Select">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MVCDBModel.Student_Select_Result">
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Class" ColumnName="Class" />
+          <ScalarProperty Name="Fees" ColumnName="Fees" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Student_Update" FunctionName="MVCDBModel.Store.Student_Update" />
+  </EntityContainerMapping>
+</Mapping>

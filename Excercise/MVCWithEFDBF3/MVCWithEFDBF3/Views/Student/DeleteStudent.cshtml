@@ -1,0 +1,36 @@
+﻿@model MVCWithEFDBF3.Models.Student_Select_Result
+@{
+    ViewBag.Title = "DeleteStudent";
+}
+@using (Html.BeginForm("DeleteStudent", "Student"))
+{
+    <table border="1">
+        <caption>Student Details</caption>
+        <tr>
+            <td rowspan="4"><img src='/Uploads/@Model.Photo' width="200" height="200" /></td>
+            <td>Sid: @Model.Sid @Html.HiddenFor(S => S.Sid)</td>
+        </tr>
+        <tr>
+            <td>
+                Name: @Model.Name
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Class: @Model.Class
+            </td>
+        </tr>
+        <tr>
+            <td>Fees: @Model.Fees</td>
+        </tr>
+    </table>
+    <font color="red">Are you sure of deleting the current record?</font>
+    <input type="submit" value="Yes" />
+}
+@using (Html.BeginForm("DisplayStudents", "Student"))
+{
+    <text>Click</text>
+    <input type="submit" value="No" />
+    @:for going back to Student Details.
+}
+
