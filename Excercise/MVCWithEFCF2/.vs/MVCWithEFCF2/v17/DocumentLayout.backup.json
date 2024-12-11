@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf2\\mvcwithefcf2\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|solutionrelative:mvcwithefcf2\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf2\\mvcwithefcf2\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|solutionrelative:mvcwithefcf2\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf2\\mvcwithefcf2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|solutionrelative:mvcwithefcf2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf2\\mvcwithefcf2\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BE08C8-3F98-4275-A10E-4D1BF811B173}|MVCWithEFCF2\\MVCWithEFCF2.csproj|solutionrelative:mvcwithefcf2\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF2\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "MVCWithEFCF2\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:13:46.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF2\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "MVCWithEFCF2\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:55:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF2\\Models\\Customer.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Models\\Customer.cs",
+              "RelativeToolTip": "MVCWithEFCF2\\Models\\Customer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:00:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF2\\Models\\Supplier.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF2\\MVCWithEFCF2\\Models\\Supplier.cs",
+              "RelativeToolTip": "MVCWithEFCF2\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:00:20.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
