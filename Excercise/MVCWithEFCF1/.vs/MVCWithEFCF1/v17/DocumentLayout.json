@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\category\\displaycategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\category\\displaycategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\product\\displayproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\product\\displayproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcwithefcf1\\mvcwithefcf1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD35397E-05D5-49B5-966C-F98A00EC415E}|MVCWithEFCF1\\MVCWithEFCF1.csproj|solutionrelative:mvcwithefcf1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCWithEFCF1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:05:28.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T07:08:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCWithEFCF1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:29:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayCategories.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\DisplayCategories.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Category\\DisplayCategories.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\DisplayCategories.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Category\\DisplayCategories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T06:55:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:50:34.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:00:13.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:49:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayProduct.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\DisplayProduct.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Product\\DisplayProduct.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\DisplayProduct.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Product\\DisplayProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:48:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayProducts.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\DisplayProducts.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Views\\Product\\DisplayProducts.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Views\\Product\\DisplayProducts.cshtml",
+              "RelativeToolTip": "MVCWithEFCF1\\Views\\Product\\DisplayProducts.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:41:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Models\\Category.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Models\\Category.cs",
+              "RelativeToolTip": "MVCWithEFCF1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:01:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCF1\\Models\\Product.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCWithEFCF1\\MVCWithEFCF1\\Models\\Product.cs",
+              "RelativeToolTip": "MVCWithEFCF1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:00:43.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
