@@ -133,6 +133,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\CompanyDBContext.cs" />
+    <Compile Include="Models\CompanyDBInitializer.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Supplier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

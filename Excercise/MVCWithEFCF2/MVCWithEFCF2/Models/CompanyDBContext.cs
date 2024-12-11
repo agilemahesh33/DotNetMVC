@@ -10,7 +10,7 @@ namespace MVCWithEFCF2.Models
     {
         public CompanyDBContext() : base("ConStr")
         {
-            Database.SetInitializer(new DropCreateDatabaseAlways<CompanyDBContext>());
+            Database.SetInitializer(new CompanyDBInitializer());
         }
         public DbSet<Supplier> Suppliers { get; set; }
         public DbSet<Customer> Customers { get; set; }
