@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MVCWithADO.Models.Student>
+@{
+    ViewBag.Title = "DisplayStudents";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Student Details</h2>
+<table border="1" align="center" class="table-condensed">
+    <tr>
+        <th>@Html.DisplayNameFor(S => S.SId)</th>
+        <th>@Html.DisplayNameFor(S => S.SName)</th>
+        <th>@Html.DisplayNameFor(S => S.Class)</th>
+        <th>@Html.DisplayNameFor(S => S.Fees)</th>
+        <th>@Html.DisplayNameFor(S => S.Photo)</th>
+        <th align="center">Actions</th>
+    </tr>
+    @foreach (MVCWithADO.Models.Student student in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(S => student.SId)</td>
+            <td>@Html.DisplayFor(S => student.SName)</td>
+            <td>@Html.DisplayFor(S => student.Class)</td>
+            <td>@Html.DisplayFor(S => student.Fees)</td>
+            <td>
+                <img src='/Uploads/@student.Photo' width="40" height="25" alt="No Image" />
+            </td>
+            <td>
+                @Html.ActionLink("View", "DisplayStudent", new { Sid = student.SId})
+                @Html.ActionLink("Edit", "EditStudent", new { Sid = student.SId})
+                @Html.ActionLink("Delete", "DeleteStudent", new { Sid = student.SId},
+                                new { onclick = "return confirm('Are you sure of deleting the record?')" })
+            </td>
+        </tr>
+    }
+    <tr><td colspan="6" align="center">@Html.ActionLink("Add New Student", "AddStudent")</td></tr>
+</table>
