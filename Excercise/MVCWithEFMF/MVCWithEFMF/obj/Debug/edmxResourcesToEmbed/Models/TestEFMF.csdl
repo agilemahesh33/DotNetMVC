@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="TestEFMF" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="TestEFMFContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="TestEFMF.Department" />
+    <EntitySet Name="Employees" EntityType="TestEFMF.Employee" />
+    <AssociationSet Name="DepartmentEmployee" Association="TestEFMF.DepartmentEmployee">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Dname" Type="String" Nullable="false" Unicode="false" MaxLength="50" />
+    <Property Name="Location" Type="String" Nullable="false" Unicode="false" MaxLength="50" />
+    <NavigationProperty Name="Employees" Relationship="TestEFMF.DepartmentEmployee" FromRole="Department" ToRole="Employee" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ename" Type="String" Nullable="false" MaxLength="50" Unicode="false" />
+    <Property Name="Job" Type="String" Nullable="false" Unicode="false" MaxLength="50" />
+    <Property Name="Salary" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+    <Property Name="Status" Type="Boolean" Nullable="false" DefaultValue="True" />
+    <NavigationProperty Name="Department" Relationship="TestEFMF.DepartmentEmployee" FromRole="Employee" ToRole="Department" />
+    <Property Name="DepartmentId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="DepartmentEmployee">
+    <End Type="TestEFMF.Department" Role="Department" Multiplicity="1" />
+    <End Type="TestEFMF.Employee" Role="Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
