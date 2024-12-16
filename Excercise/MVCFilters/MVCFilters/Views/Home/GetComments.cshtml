@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "GetComments";
+}
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.Label("Comments:") <br />
+        @Html.TextArea("txtComment")
+    </div>
+    <div>
+        <input type="submit" value="Submit" name="txtComment" />
+    </div>
+}

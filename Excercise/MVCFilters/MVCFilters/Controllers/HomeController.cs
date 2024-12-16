@@ -50,7 +50,18 @@ namespace MVCFilters.Controllers
 
         #endregion OutputCache Filter
 
-
-
+        #region ValidateInput Filter
+        //ValidateInput By Default true to make it false use it wisely
+        [HttpGet, ValidateInput(false)]
+        public ViewResult GetComments()
+        {
+            return View();
+        }
+        [HttpPost]
+        public string GetComments(string txtComment)
+        {
+            return txtComment;
+        }
+        #endregion ValidateInput Filter
     }
 }

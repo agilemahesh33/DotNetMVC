@@ -161,6 +161,7 @@
     <Content Include="Views\Home\DisplayCustomers3.cshtml" />
     <Content Include="Views\Home\DisplayCustomers4.cshtml" />
     <Content Include="Views\Home\DisplayCustomers5.cshtml" />
+    <Content Include="Views\Home\GetComments.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
