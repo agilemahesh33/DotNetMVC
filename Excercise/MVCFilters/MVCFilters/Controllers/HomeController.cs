@@ -2,6 +2,8 @@
 using MVCFilters.Models;
 using System.Linq;
 using System.Web.Caching;
+using System.EnterpriseServices;
+using System;
 
 namespace MVCFilters.Controllers
 {
@@ -79,5 +81,20 @@ namespace MVCFilters.Controllers
             return "Record Added";
         }
         #endregion ValidateAntiForgeryToken Filter
+
+        #region HandleError Filter
+
+        [HttpGet]
+        public ViewResult DividNum()
+        {
+            return View();
+        }
+        [HttpPost]
+        public string DividNum(int num1, int num2)
+        {
+            return Convert.ToString(num1 / num2);
+        }
+        #endregion HandleError Filter
+
     }
 }

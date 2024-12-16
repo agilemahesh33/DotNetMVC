@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "DividNum";
+}
+@using (Html.BeginForm())
+{
+    <div>@Html.Label("Enter 1st Number: ")<br />@Html.TextBox("num1")</div>
+    <div>@Html.Label("Enter 2nd Number: ")<br />@Html.TextBox("num2")</div>
+    <div>
+        <input type="submit" value="Divide" name="btnDiv" />
+        <input type="reset" value="Reset" />
+    </div>
+}

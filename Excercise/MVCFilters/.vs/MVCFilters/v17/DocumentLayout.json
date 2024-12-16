@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\mvcfilters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\mvcfilters\\views\\home\\getcomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\home\\getcomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\home\\dividnum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\home\\dividnum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,39 +91,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "MVCFilters\\Views\\Home\\AddEmployee.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\AddEmployee.cshtml",
-              "RelativeToolTip": "MVCFilters\\Views\\Home\\AddEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:23:12.082Z",
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCFilters\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCFilters\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:20:16.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetComments.cshtml",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\GetComments.cshtml",
-              "RelativeDocumentMoniker": "MVCFilters\\Views\\Home\\GetComments.cshtml",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\GetComments.cshtml",
-              "RelativeToolTip": "MVCFilters\\Views\\Home\\GetComments.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:38:45.106Z"
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "MVCFilters\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "MVCFilters\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:20:13.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Error\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "MVCFilters\\Views\\Error\\NotFound.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Error\\NotFound.cshtml",
+              "RelativeToolTip": "MVCFilters\\Views\\Error\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:08:58.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "MVCFilters\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "MVCFilters\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:59:46.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCFilters\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCFilters\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAABgZmZmZmYowFwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T02:58:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Web.config",
+              "RelativeDocumentMoniker": "MVCFilters\\Web.config",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Web.config",
+              "RelativeToolTip": "MVCFilters\\Web.config",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T12:35:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DividNum.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\DividNum.cshtml",
+              "RelativeDocumentMoniker": "MVCFilters\\Views\\Home\\DividNum.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\DividNum.cshtml",
+              "RelativeToolTip": "MVCFilters\\Views\\Home\\DividNum.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:05:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MVCFilters\\Global.asax.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Global.asax.cs",
+              "RelativeToolTip": "MVCFilters\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:21:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCFilters\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCFilters\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:33:13.226Z",
               "EditorCaption": ""
             }
           ]
