@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MVCFilters.Models.Department>
+@{    
+    ViewBag.Title = "DisplayDepts";
+}
+
+<h2>DisplayDepts</h2>
+
+<table border="1" align="center">
+    <caption>Department Details</caption>
+    <tr>
+        <th>@Html.DisplayNameFor(D => D.Did)</th>
+        <th>@Html.DisplayNameFor(D => D.Dname)</th>
+        <th>@Html.DisplayNameFor(D => D.Location)</th>
+        <th>Employees</th>
+    </tr>
+    @foreach (var Dept in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(D => Dept.Did) </td>
+            <td>@Html.DisplayFor(D => Dept.Dname) </td>
+            <td>@Html.DisplayFor(D => Dept.Location) </td>
+            <td>@Html.Action("DisplayEmpByDID", new {DID = Dept.Did})</td>
+        </tr>
+    }
+</table>
