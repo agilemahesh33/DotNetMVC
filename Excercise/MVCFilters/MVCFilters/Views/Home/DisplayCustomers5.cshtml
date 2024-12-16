@@ -1,0 +1,35 @@
+﻿@model IEnumerable<MVCFilters.Models.Customer>
+@{
+    ViewBag.Title = "DisplayCustomers5";
+}
+<table align="center" border="1">
+    <tr>
+        <td colspan="5">
+            <h3 style="text-align:center">Request Processed Time: @DateTime.Now.ToString("T")</h3>
+        </td>
+    </tr>
+    <tr>
+        <th>@Html.DisplayNameFor(C => C.CustId)</th>
+        <th>@Html.DisplayNameFor(C => C.Name)</th>
+        <th>@Html.DisplayNameFor(C => C.Balance)</th>
+        <th>@Html.DisplayNameFor(C => C.City)</th>
+        <th>@Html.DisplayNameFor(C => C.Status)</th>
+    </tr>
+    @foreach (var Customer in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(C => Customer.CustId)</td>
+            <td>@Html.DisplayFor(C => Customer.Name)</td>
+            <td align="right">@Html.DisplayFor(C => Customer.Balance)</td>
+            <td>@Html.DisplayFor(C => Customer.City)</td>
+            @if (Customer.Status == true)
+            {
+                <td>Active</td>
+            }
+            else
+            {
+                <td>In-Active </td>
+            }
+        </tr>
+    }
+</table>

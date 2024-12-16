@@ -26,6 +26,31 @@ namespace MVCFilters.Controllers
         {
             return View(dc.Customers);
         }
+        [OutputCache(Duration =60)]
+        public ViewResult DisplayCustomers2()
+        {
+            return View(dc.Customers);
+        }
+        [OutputCache(Duration =60, VaryByParam ="City")] //VaryByParam is optional 
+        public ViewResult DisplayCustomers3(string City)
+        {
+            return View(dc.Customers.Where(C => C.City == City));
+        }
+        [OutputCache(Duration = 60, VaryByCustom ="browser")] //VaryByParam is optional 
+        public ViewResult DisplayCustomers4(string City)
+        {
+            return View(dc.Customers.Where(C => C.City == City));
+        }
+
+        [OutputCache(CacheProfile = "MyCacheProfile")]
+        public ViewResult DisplayCustomers5(string City)
+        {
+            return View(dc.Customers.Where(C => C.City == City));
+        }
+
         #endregion OutputCache Filter
+
+
+
     }
 }
