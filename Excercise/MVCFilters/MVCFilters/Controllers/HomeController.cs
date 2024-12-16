@@ -63,5 +63,21 @@ namespace MVCFilters.Controllers
             return txtComment;
         }
         #endregion ValidateInput Filter
+
+        #region ValidateAntiForgeryToken Filter
+        [HttpGet]
+        public ViewResult AddEmployee()
+        {
+            return View();
+        }
+        [HttpPost, ValidateAntiForgeryToken]
+        public string AddEmployee(Employee emp)
+        {
+            emp.Status = true;
+            dc.Employees.Add(emp);
+            dc.SaveChanges();
+            return "Record Added";
+        }
+        #endregion ValidateAntiForgeryToken Filter
     }
 }

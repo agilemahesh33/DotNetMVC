@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\home\\getcomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcfilters\\mvcfilters\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\mvcfilters\\views\\home\\getcomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27A5DB1C-6A55-4172-AFAA-8B746683C974}|MVCFilters\\MVCFilters.csproj|solutionrelative:mvcfilters\\views\\home\\getcomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "MVCFilters\\Views\\Home\\AddEmployee.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeToolTip": "MVCFilters\\Views\\Home\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:23:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GetComments.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Views\\Home\\GetComments.cshtml",
               "RelativeDocumentMoniker": "MVCFilters\\Views\\Home\\GetComments.cshtml",
@@ -70,8 +87,7 @@
               "RelativeToolTip": "MVCFilters\\Views\\Home\\GetComments.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:38:45.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:38:45.106Z"
             },
             {
               "$type": "Document",
@@ -81,7 +97,7 @@
               "RelativeDocumentMoniker": "MVCFilters\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCFilters\\MVCFilters\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCFilters\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAABAMzMzMzMrwEIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T02:58:14.224Z",
               "EditorCaption": ""

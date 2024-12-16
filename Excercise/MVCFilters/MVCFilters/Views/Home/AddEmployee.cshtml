@@ -1,0 +1,16 @@
+﻿@model MVCFilters.Models.Employee
+@{
+    ViewBag.Title = "AddEmployee";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>@Html.LabelFor(E => E.Ename)<br />@Html.TextBoxFor(E => E.Ename)</div>
+    <div>@Html.LabelFor(E => E.Job)<br />@Html.TextBoxFor(E => E.Job)</div>
+    <div>@Html.LabelFor(E => E.Salary)<br />@Html.TextBoxFor(E => E.Salary)</div>
+    <div>@Html.LabelFor(E => E.Did)<br />@Html.TextBoxFor(E => E.Did)</div>
+    <div>
+        <input type="submit" value="Save" name="btnSave" />
+        <input type="reset" value="Reset" />
+    </div>
+}

@@ -14,7 +14,7 @@
     <RootNamespace>MVCFilters</RootNamespace>
     <AssemblyName>MVCFilters</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -162,6 +162,7 @@
     <Content Include="Views\Home\DisplayCustomers4.cshtml" />
     <Content Include="Views\Home\DisplayCustomers5.cshtml" />
     <Content Include="Views\Home\GetComments.cshtml" />
+    <Content Include="Views\Home\AddEmployee.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -190,7 +191,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50471</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50471/</IISUrl>
+          <IISUrl>http://localhost/MVCFilters</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
