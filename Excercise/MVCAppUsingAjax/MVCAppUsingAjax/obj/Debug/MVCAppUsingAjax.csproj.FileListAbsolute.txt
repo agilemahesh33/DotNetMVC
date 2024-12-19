@@ -70,3 +70,7 @@ D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\obj\Debu
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\obj\Debug\MVCAppUs.64B9939F.Up2Date
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\obj\Debug\MVCAppUsingAjax.dll
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\obj\Debug\MVCAppUsingAjax.pdb
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\bin\EntityFramework.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\bin\EntityFramework.SqlServer.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\bin\EntityFramework.xml
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCAppUsingAjax\MVCAppUsingAjax\bin\EntityFramework.SqlServer.xml

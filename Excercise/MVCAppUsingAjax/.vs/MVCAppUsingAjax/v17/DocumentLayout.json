@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcappusingajax\\mvcappusingajax\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|solutionrelative:mvcappusingajax\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcappusingajax\\mvcappusingajax\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|solutionrelative:mvcappusingajax\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcappusingajax\\mvcappusingajax\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A001F6AF-F93E-4FD0-8534-B7C81DA0EA67}|MVCAppUsingAjax\\MVCAppUsingAjax.csproj|solutionrelative:mvcappusingajax\\models\\testef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +63,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayProducts.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Views\\Product\\DisplayProducts.cshtml",
+              "RelativeDocumentMoniker": "MVCAppUsingAjax\\Views\\Product\\DisplayProducts.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Views\\Product\\DisplayProducts.cshtml",
+              "RelativeToolTip": "MVCAppUsingAjax\\Views\\Product\\DisplayProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T02:29:52.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCAppUsingAjax\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCAppUsingAjax\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABcAAAAAmJmZmZnZvyMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:27:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Models\\TestEF.edmx",
+              "RelativeDocumentMoniker": "MVCAppUsingAjax\\Models\\TestEF.edmx",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCAppUsingAjax\\MVCAppUsingAjax\\Models\\TestEF.edmx [Diagram1]",
+              "RelativeToolTip": "MVCAppUsingAjax\\Models\\TestEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-19T02:25:45.019Z",
+              "EditorCaption": " [Diagram1]"
             }
           ]
         }
