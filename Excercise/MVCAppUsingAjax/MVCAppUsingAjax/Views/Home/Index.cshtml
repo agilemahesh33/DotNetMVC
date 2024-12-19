@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.7.1.min.js"></script>
+</head>
+<body onload="LoadData()">
+        <div style="background-color:lightgreen;color:blueviolet">
+            Date & Time: @DateTime.Now.ToString()
+        </div>
+        <div style="background-color:yellow;color:red">
+            <marquee id="m1" behavior="alternate"></marquee>
+            <input type="text" id="txtName" />
+        </div>
+        <div style="background-color:coral;color:chartreuse">
+            Date & Time: @DateTime.Now.ToString()
+        </div>
+    <script>
+        function LoadData() {
+            $.ajax({
+                url: "/Home/GetScore",
+                type: "get",
+                cache: false,
+                success: F1,
+                error: F2
+            });
+            window.setTimeout("LoadData()", 1000);
+        }
+        function F1(responseString) {
+            $("#m1").html(responseString);
+            //$("#txtName").val("Hello World");
+            //var str = $("#txtName").val();
+        }
+        function F2() {
+            window.alert("Error in server.");
+        }
+    </script>
+</body>
+</html>
