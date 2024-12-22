@@ -1,0 +1,121 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.7.1.min.js"></script>
+    <script>
+        function GetCustomers() {
+            $.ajax({
+                url: 'http://localhost:58069/api/Customer',
+                type: 'get',
+                datatype: 'json',
+                success: BuildTable,
+                error: DisplayError
+            });
+        }
+        function BuildTable(Customers) {
+            $('#tblCustomers tbody').empty();
+            $.each(Customers, function (Index, Customer) {
+                var Status = (Customer.Status) ? 'Active' : 'In-Active';
+                $('#tblCustomers').append('<tr><td align=center>' + Customer.CustId + '</td><td>' + Customer.Name +
+                    '</td><td align=right>' + Customer.Balance + '</td><td>' + Customer.City + '</td><td align=center>' + Status +
+                    '</td></tr>');
+            });
+        }
+        function DisplayError() {
+            window.alert("Error on the server, could not load the data.");
+        }
+        function GetCustomer() {
+            $.ajax({
+                url: 'http://localhost:58069/api/Customer',
+                type: 'get',
+                datatype: 'json',
+                data: {
+                    'id': $('#Custid').val()
+                },
+                success: function (Customer) {
+                    if (Customer == null) {
+                        window.alert("No customer exists with the given id.");
+                        $('#frmCustomer').trigger("reset");
+                        $('#CustId').focus();
+                        console.log("Success");
+                    }
+                    else {
+                        $('#Name').val(Customer.Name);
+                        $('#Balance').val(Customer.Balance);
+                        $('#City').val(Customer.City);
+                        console.log("Error");
+                    }
+                },
+                error: DisplayError
+            });
+        }
+    </script>
+</head>
+<body onload="GetCustomers()">
+    <div>
+        <table width="100%">
+            <tr>
+                <td valign="top">
+                    <table border="1" align="center" id="tblCustomers">
+                        <caption>Customer Details</caption>
+                        <thead>
+                            <tr>
+                                <th>Custid</th>
+                                <th>Name</th>
+                                <th>Balance</th>
+                                <th>City</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </td>
+                <td valign="top">
+                    <form id="frmCustomer">
+                        <table align="center">
+                            <caption>Add Edit Customer</caption>
+                            <tr>
+                                <td>Custid:</td>
+                                <td>
+                                    <input id="Custid" name="Custid" />
+                                    <input type="button" id="btnSearch" name="btnSearch" value="..." onclick="GetCustomer()" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Name:</td>
+                                <td><input id="Name" name="Name" /></td>
+                            </tr>
+                            <tr>
+                                <td>Balance:</td>
+                                <td><input id="Balance" name="Balance" /></td>
+                            </tr>
+                            <tr>
+                                <td>City:</td>
+                                <td><input id="City" name="City" /></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <input type="button" id="btnInsert" name="btnInsert" value="Insert" onclick="AddCustomer()" />
+                                    <input type="button" id="btnUpdate" name="btnUpdate" value="Update"
+                                           onclick="UpdateCustomer()" />
+                                    <input type="button" id="btnDelete" name="btnDelete" value="Delete" onclick="DeleteCustomer()" />
+                                    <input type="reset" id="btnReset" name="btnReset" value="Clear" />
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
