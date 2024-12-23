@@ -20,18 +20,6 @@
                 error: DisplayError
             });
         }
-        function BuildTable(Customers) {
-            $('#tblCustomers tbody').empty();
-            $.each(Customers, function (Index, Customer) {
-                var Status = (Customer.Status) ? 'Active' : 'In-Active';
-                $('#tblCustomers').append('<tr><td align=center>' + Customer.CustId + '</td><td>' + Customer.Name +
-                    '</td><td align=right>' + Customer.Balance + '</td><td>' + Customer.City + '</td><td align=center>' + Status +
-                    '</td></tr>');
-            });
-        }
-        function DisplayError() {
-            window.alert("Error on the server, could not load the data.");
-        }
         function GetCustomer() {
             $.ajax({
                 url: 'http://localhost:58069/api/Customer',
@@ -57,6 +45,56 @@
                 error: DisplayError
             });
         }
+        function BuildTable(Customers) {
+            $('#tblCustomers tbody').empty();
+            $.each(Customers, function (Index, Customer) {
+                var Status = (Customer.Status) ? 'Active' : 'In-Active';
+                $('#tblCustomers').append('<tr><td align=center>' + Customer.CustId + '</td><td>' + Customer.Name +
+                    '</td><td align=right>' + Customer.Balance + '</td><td>' + Customer.City + '</td><td align=center>' + Status +
+                    '</td></tr>');
+            });
+        }
+        function AddCustomer() {
+            $.ajax({
+                url: 'http://localhost:58069/api/Customer',
+                type: 'post',
+                datatype: 'json',
+                data: $('#frmCustomer').serialize(),
+                success: ClearAndLoad,
+                error: DisplayError
+            });
+        }
+        function UpdateCustomer() {
+            $.ajax({
+                url: 'http://localhost:58069/api/Customer',
+                type: 'put',
+                datatype: 'json',
+                data: $('#frmCustomer').serialize(),
+                success: ClearAndLoad,
+                error: DisplayError
+            });
+        }
+        function DeleteCustomer() {
+            var Status = confirm('Are you sure of deleting the current record?');
+            if (Status) {
+                $.ajax({
+                    url: 'http://localhost:58069/api/Customer/' + $('#Custid').val(),
+                    type: 'delete',
+                    datatype: 'json',
+                    success: ClearAndLoad,
+                    error: DisplayError
+                });
+            }            
+        }
+        function ClearAndLoad() {
+            $('#frmCustomer').trigger("reset");
+            GetCustomers();
+            $('#CustId').focus();
+        }
+        function DisplayError() {
+            window.alert("Error on the server, could not load the data.");
+        }
+        
     </script>
 </head>
 <body onload="GetCustomers()">
