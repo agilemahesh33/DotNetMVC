@@ -94,6 +94,11 @@ namespace MVCFilters.Controllers
         {
             return Convert.ToString(num1 / num2);
         }
+        [HandleError]
+        public ViewResult ShowView()  //not added any view for this action method
+        {
+            return View();
+        }
         #endregion HandleError Filter
 
     }
