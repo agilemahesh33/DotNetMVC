@@ -1,0 +1,17 @@
+﻿@model WebApiConsumer2.Models.Student
+
+@{
+    ViewBag.Title = "AddStudent";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Add New Student</h2>
+@using (Html.BeginForm("AddStudent", "Student", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>@Html.LabelFor(S => S.Id)<br />@Html.TextBoxFor(S => S.Id)</div>
+    <div>@Html.LabelFor(S => S.Name)<br />@Html.TextBoxFor(S => S.Name)</div>
+    <div>@Html.LabelFor(S => S.Photo)<br /><input type="file" name="selectedFile" /></div>
+    <div>
+        <input type="submit" value="Save" name="btnSave" />
+        <input type="reset" value="Reset" name="btnReset" />
+    </div>
+}
+@Html.ActionLink("Back to Student Details", "DisplayStudents")

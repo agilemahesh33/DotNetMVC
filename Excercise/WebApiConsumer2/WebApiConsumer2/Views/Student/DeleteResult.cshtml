@@ -1,0 +1,10 @@
+﻿@model WebApiConsumer2.Models.Student
+
+@{
+    ViewBag.Title = "DeleteResult";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Delete Student Failed</h2>
+<font color="red" size="4">
+    Delete student action resulted in an error.
+</font>
+@Html.ActionLink("Back to Student Details", "DisplayStudents")

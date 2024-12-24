@@ -1,0 +1,26 @@
+﻿@model WebApiConsumer2.Models.Student
+
+@{
+    ViewBag.Title = "EditResult";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Edit Student</h2>
+@{
+    string imgSrc = "";
+    if (Model.Photo != null)
+    {
+        var base64 = Convert.ToBase64String(Model.Photo);
+        imgSrc = String.Format("data:image/jpeg;base64,{0}", base64);
+    }
+}
+@using (Html.BeginForm("UpdateStudent", "Student", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>@Html.LabelFor(S => S.Id)<br />@Html.TextBoxFor(S => S.Id, new { @readonly = "true" })</div>
+    <div>@Html.LabelFor(S => S.Name)<br />@Html.TextBoxFor(S => S.Name)</div>
+    <div>
+        @Html.LabelFor(S => S.Photo) <br /><img src='@imgSrc' width="200" height="200" />
+        <input type="file" name="selectedFile" />
+    </div>
+    <div>
+        <input type="submit" value="Save" name="btnSave" />
+    </div>
+}

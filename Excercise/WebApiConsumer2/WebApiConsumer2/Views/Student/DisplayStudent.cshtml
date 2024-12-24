@@ -1,0 +1,27 @@
+﻿@model WebApiConsumer2.Models.Student
+
+@{
+    ViewBag.Title = "DisplayStudent";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Add New Student</h2>
+@{
+    string imgSrc = "";
+    if (Model.Photo != null)
+    {
+        var base64 = Convert.ToBase64String(Model.Photo);
+        imgSrc = String.Format("data:image/jpeg;base64,{0}", base64);
+    }
+}
+<table border="1" align="center">
+    <caption>Student Details</caption>
+    <tr>
+        <td rowspan="2"><img src='@imgSrc' width="200" height="200" /></td>
+        <td>Sid: @Model.Id</td>
+    </tr>
+    <tr>
+        <td>Name: @Model.Name</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">@Html.ActionLink("Back to Student Details", "DisplayStudents")</td>
+    </tr>
+</table>

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\webapiconsumer2\\webapiconsumer2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|solutionrelative:webapiconsumer2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\webapiconsumer2\\webapiconsumer2\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|solutionrelative:webapiconsumer2\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\webapiconsumer2\\webapiconsumer2\\views\\student\\editresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|solutionrelative:webapiconsumer2\\views\\student\\editresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\webapiconsumer2\\webapiconsumer2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D38638C-6536-4CF6-90E5-71A540A26F2C}|WebApiConsumer2\\WebApiConsumer2.csproj|solutionrelative:webapiconsumer2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +67,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayStudents.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Views\\Student\\DisplayStudents.cshtml",
+              "RelativeDocumentMoniker": "WebApiConsumer2\\Views\\Student\\DisplayStudents.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Views\\Student\\DisplayStudents.cshtml",
+              "RelativeToolTip": "WebApiConsumer2\\Views\\Student\\DisplayStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:38:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApiConsumer2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApiConsumer2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACMAAABAAAAAAAA3wDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:22:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditResult.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Views\\Student\\EditResult.cshtml",
+              "RelativeDocumentMoniker": "WebApiConsumer2\\Views\\Student\\EditResult.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Views\\Student\\EditResult.cshtml",
+              "RelativeToolTip": "WebApiConsumer2\\Views\\Student\\EditResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:16:36.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApiConsumer2\\Models\\Student.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\WebApiConsumer2\\WebApiConsumer2\\Models\\Student.cs",
+              "RelativeToolTip": "WebApiConsumer2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:41:11.827Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using WebAPIService.Models;
-using Microsoft.AspNet.WebApi.Cors;
+
 
 namespace WebAPIService.Controllers
 {

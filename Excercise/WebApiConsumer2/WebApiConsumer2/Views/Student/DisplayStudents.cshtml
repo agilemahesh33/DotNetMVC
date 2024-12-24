@@ -1,0 +1,40 @@
+﻿@model WebApiConsumer2.Models.Student
+
+@{
+    ViewBag.Title = "DisplayStudents";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:orangered">Add New Student</h2>
+<table border="1" align="center">
+    <caption>Student Details</caption>
+    <tr>
+        <th>@Html.DisplayNameFor(S => S.Id)</th>
+        <th>@Html.DisplayNameFor(S => S.Name)</th>
+        <th>@Html.DisplayNameFor(S => S.Photo)</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var Student in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(S => Student.Id)</td>
+            <td>@Html.DisplayFor(S => Student.Name)</td>
+            @{
+                string imgSrc = "";
+                if (Student.Photo != null)
+                {
+                    var base64 = Convert.ToBase64String(Student.Photo);
+                    imgSrc = String.Format("data:image/jpeg;base64,{0}", base64);
+                }
+            }
+            <td><img src='@imgSrc' width="40" height="25" /></td>
+            <td>
+                @Html.ActionLink("View", "DisplayStudent", new { Id = Student.Id }) &nbsp;
+                @Html.ActionLink("Edit", "EditStudent", new { Id = Student.Id }) &nbsp;
+                @Html.ActionLink("Delete", "DeleteStudent", new { Id = Student.Id },
+                                new { onclick = "return confirm('Are you sure of deleting the record?')" })
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="4" align="center">@Html.ActionLink("Add New Student", "AddStudent")</td>
+    </tr>
+</table>
