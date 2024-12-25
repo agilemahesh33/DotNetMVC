@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CoreTestProject1.Core8.0.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreTestProject1.Core8.0.props" />
+</Project>
