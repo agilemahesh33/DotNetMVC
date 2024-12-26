@@ -1,0 +1,59 @@
+﻿@model LoginModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <h1>Login Form</h1>
+    <section>
+        <form asp-controller="Account" asp-action="Login">
+            <hr />
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="col-md-4 form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="col-md-4 form-control" />
+            </div>
+            <div class="form-group">
+                <input asp-for="RememberMe" />
+                <label asp-for="RememberMe"></label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Log In" class="btn btn-primary" />
+                <input type="reset" value="Reset" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </section>
+    @* <section>
+        @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.Email, new { @class = "col-md-4 form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                @Html.PasswordFor(m => m.Password, new { @class = "col-md-4 form-control" })
+            </div>
+            <div class="form-group">
+                @Html.CheckBoxFor(m => m.RememberMe)
+                @Html.LabelFor(m => m.RememberMe)
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Log In" class="btn btn-primary" />
+                <input type="reset" value="Reset" class="btn btn-primary" />
+            </div>
+        }
+    </section> *@
+</body>
+</html>
+

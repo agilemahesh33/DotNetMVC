@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\mvccoretaghelpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\mvccoretaghelpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoretaghelpers\\mvccoretaghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479919EB-260E-4DA2-9CB1-C798A097AEF4}|MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj|solutionrelative:mvccoretaghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCCoreTagHelpers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T13:37:58.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreTagHelpers\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T13:37:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCCoreTagHelpers\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:36:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Models\\LoginModel.cs",
+              "RelativeToolTip": "MVCCoreTagHelpers\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:35:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\Program.cs",
+              "RelativeToolTip": "MVCCoreTagHelpers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:28:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVCCoreTagHelpers",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj",
+              "RelativeDocumentMoniker": "MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj",
+              "RelativeToolTip": "MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T13:33:27.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
