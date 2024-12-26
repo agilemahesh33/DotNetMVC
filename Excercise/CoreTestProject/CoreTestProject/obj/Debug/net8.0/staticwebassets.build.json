@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "fMZmShdmHSbc/2hgtXkUF+5u2nGNbeb0gqfMLp4jcZ8=",
+  "Source": "CoreTestProject",
+  "BasePath": "_content/CoreTestProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreTestProject\\wwwroot",
+      "Source": "CoreTestProject",
+      "ContentRoot": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreTestProject\\CoreTestProject\\wwwroot\\",
+      "BasePath": "_content/CoreTestProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
