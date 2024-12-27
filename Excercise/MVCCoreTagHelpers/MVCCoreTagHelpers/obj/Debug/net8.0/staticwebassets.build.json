@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5DaDciYHN1zrmlfhSGyi6FoUYIbWugDv7tRmV22F+sc=",
+  "Hash": "ARCDs8eqxOmsmTrtoB6cEXU30QjNGK/33nvT6nhV8yk=",
   "Source": "MVCCoreTagHelpers",
   "BasePath": "_content/MVCCoreTagHelpers",
   "Mode": "Default",
@@ -16,6 +16,48 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register.jpg",
+      "SourceId": "MVCCoreTagHelpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\",
+      "BasePath": "_content/MVCCoreTagHelpers",
+      "RelativePath": "images/Register#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ny8quyd0j5",
+      "Integrity": "IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Register.jpg"
+    },
+    {
+      "Identity": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register1.jpg",
+      "SourceId": "MVCCoreTagHelpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\",
+      "BasePath": "_content/MVCCoreTagHelpers",
+      "RelativePath": "images/Register1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j40c512bb2",
+      "Integrity": "Xct+ip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2+bY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Register1.jpg"
+    },
     {
       "Identity": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",
       "SourceId": "MVCCoreTagHelpers",
@@ -2874,6 +2916,170 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "images/Register.jpg",
+      "AssetFile": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 22:31:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Register.ny8quyd0j5.jpg",
+      "AssetFile": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 22:31:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny8quyd0j5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Register.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Register1.j40c512bb2.jpg",
+      "AssetFile": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xct+ip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 22:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j40c512bb2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Register1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xct+ip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2+bY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Register1.jpg",
+      "AssetFile": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xct+ip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 22:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xct+ip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2+bY="
+        }
+      ]
+    },
     {
       "Route": "lib/twitter-bootstrap/css/bootstrap.css",
       "AssetFile": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",

@@ -1,5 +1,29 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MVCCoreTagHelpers/images/Register.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Register.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6328"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 22:31:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCCoreTagHelpers/images/Register.ny8quyd0j5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Register.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ny8quyd0j5"},{"Name":"integrity","Value":"sha256-IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8="},{"Name":"label","Value":"_content/MVCCoreTagHelpers/images/Register.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6328"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IdqHjae64envMHZofM8jlC7S8CmvivgCI5RjRrNGXW8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 22:31:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCCoreTagHelpers/images/Register1.j40c512bb2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Register1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j40c512bb2"},{"Name":"integrity","Value":"sha256-Xct\u002Bip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2\u002BbY="},{"Name":"label","Value":"_content/MVCCoreTagHelpers/images/Register1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7935"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xct\u002Bip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2\u002BbY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 22:30:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCCoreTagHelpers/images/Register1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Register1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xct\u002Bip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2\u002BbY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7935"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xct\u002Bip/iNdzPkXfxbgTK0h4Q/gg1PusnoPV8z1M2\u002BbY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 22:30:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MVCCoreTagHelpers/lib/twitter-bootstrap/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-grid.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

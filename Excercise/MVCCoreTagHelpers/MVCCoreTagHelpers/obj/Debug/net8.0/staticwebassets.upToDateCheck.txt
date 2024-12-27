@@ -1,3 +1,5 @@
+wwwroot\images\Register.jpg
+wwwroot\images\Register1.jpg
 wwwroot\lib\twitter-bootstrap\css\bootstrap.css
 wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map
 wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css

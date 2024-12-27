@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register.jpg",
+      "PackagePath": "staticwebassets\\images\\Register.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\images\\Register1.jpg",
+      "PackagePath": "staticwebassets\\images\\Register1.jpg"
+    },
+    {
       "Id": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreTagHelpers\\MVCCoreTagHelpers\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css"
     },
