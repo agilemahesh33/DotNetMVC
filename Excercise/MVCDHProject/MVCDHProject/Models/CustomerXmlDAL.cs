@@ -2,7 +2,7 @@
 
 namespace MVCDHProject.Models
 {
-    public class CustomerXmlDAL
+    public class CustomerXmlDAL : ICustomerDAL
     {
         DataSet ds;
         public CustomerXmlDAL()
@@ -12,7 +12,6 @@ namespace MVCDHProject.Models
             //Below Array because of PK can be composite PK
             ds.Tables[0].PrimaryKey = new DataColumn[] { ds.Tables[0].Columns["Custid"] };
         }
-
         public List<Customer> Select_Customers()
         {
             List<Customer> Customers = new List<Customer>();

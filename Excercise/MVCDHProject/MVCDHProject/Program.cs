@@ -1,3 +1,5 @@
+using MVCDHProject.Models;
+
 namespace MVCDHProject
 {
     public class Program
@@ -8,7 +10,7 @@ namespace MVCDHProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

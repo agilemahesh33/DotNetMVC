@@ -5,7 +5,12 @@ namespace MVCDHProject.Controllers
 {
     public class CustomerController : Controller
     {
-        CustomerXmlDAL dal = new CustomerXmlDAL();
+        private readonly ICustomerDAL dal;
+
+        public CustomerController(ICustomerDAL dal)
+        {
+            this.dal = dal;
+        }
         public IActionResult DisplayCustomers()
         {
             var customer = dal.Select_Customers();
