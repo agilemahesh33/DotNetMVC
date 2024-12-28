@@ -3,29 +3,41 @@ namespace MVCDHProject.Models
 {
     public class CustomerSqlDAL : ICustomerDAL
     {
-        public void Customer_Delete(int Custid)
+        private readonly MVCCoreDbContext context;
+
+        public CustomerSqlDAL(MVCCoreDbContext context)
         {
-            throw new NotImplementedException();
+            this.context = context;
+        }
+        public List<Customer> Select_Customers()
+        {
+            var customers = context.Customers.Where(c => c.Status == true).ToList();
+            return customers;
+        }
+        public Customer Select_Customer(int CustId)
+        {
+            var customer = context.Customers.Find(CustId);
+            return customer;
         }
 
         public void Customer_Insert(Customer customer)
         {
-            throw new NotImplementedException();
+            context.Customers.Add(customer);
+            context.SaveChanges();
         }
 
         public void Customer_Update(Customer customer)
         {
-            throw new NotImplementedException();
-        }
+            customer.Status = true; 
+            context.Update(customer);
+            context.SaveChanges();
+        }        
 
-        public Customer Select_Customer(int CustId)
+        public void Customer_Delete(int Custid)
         {
-            throw new NotImplementedException();
-        }
-
-        public List<Customer> Select_Customers()
-        {
-            throw new NotImplementedException();
+            Customer customer = context.Customers.Find(Custid);
+            customer.Status = false;
+            context.SaveChanges();
         }
     }
 }

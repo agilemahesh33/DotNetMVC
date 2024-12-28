@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using MVCDHProject.Models;
 
 namespace MVCDHProject
@@ -10,7 +11,9 @@ namespace MVCDHProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
+            builder.Services.AddDbContext<MVCCoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConStr")));
+            //builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
+            builder.Services.AddScoped<ICustomerDAL, CustomerSqlDAL>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
