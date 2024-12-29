@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace MVCDHProject.Models
 {
-    public class MVCCoreDbContext : DbContext
+    public class MVCCoreDbContext : IdentityDbContext // Internally has implementation for DbContext
     {
         public MVCCoreDbContext(DbContextOptions options) : base(options)
         {
@@ -11,6 +12,7 @@ namespace MVCDHProject.Models
         public DbSet<Customer> Customers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Customer>().HasData(
                new Customer { Custid = 101, Name = "Sai", Balance = 50000.00m, City = "Delhi", Status = true },
                new Customer { Custid = 102, Name = "Sonia", Balance = 40000.00m, City = "Mumbai", Status = true },

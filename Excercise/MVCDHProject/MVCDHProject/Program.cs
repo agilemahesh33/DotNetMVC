@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using MVCDHProject.Models;
 
@@ -11,6 +12,8 @@ namespace MVCDHProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<MVCCoreDbContext>();
             builder.Services.AddDbContext<MVCCoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConStr")));
             //builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
             builder.Services.AddScoped<ICustomerDAL, CustomerSqlDAL>();
@@ -31,7 +34,7 @@ namespace MVCDHProject
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
