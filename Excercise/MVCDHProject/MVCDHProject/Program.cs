@@ -19,7 +19,10 @@ namespace MVCDHProject
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
-                app.UseExceptionHandler("/Home/Error");
+                //app.UseStatusCodePages();
+                app.UseStatusCodePagesWithRedirects("/ClientError/{0}");
+                //app.UseStatusCodePagesWithReExecute("/ClientError/{0}"); 
+                app.UseExceptionHandler("/ServerError");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }

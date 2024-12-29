@@ -44,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdEN1c3RvbWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Dot Net Core NIT/DotNetMVC/Excercise/MVCDHProject/MVCDHProject/Views/Error/ClientErrorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcQ2xpZW50RXJyb3JWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot Net Core NIT/DotNetMVC/Excercise/MVCDHProject/MVCDHProject/Views/Error/ServerErrorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcU2VydmVyRXJyb3JWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Dot Net Core NIT/DotNetMVC/Excercise/MVCDHProject/MVCDHProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

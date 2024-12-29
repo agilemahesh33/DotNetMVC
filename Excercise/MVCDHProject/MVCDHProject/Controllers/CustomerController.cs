@@ -19,6 +19,10 @@ namespace MVCDHProject.Controllers
         public IActionResult DisplayCustomer(int CustId)
         {
             var customer = dal.Select_Customer(CustId);
+            if(customer==null)
+            {
+                throw new Exception("No Customer Exists with Given Customer ID");
+            }
             return View(customer);
         }
         [HttpGet]
