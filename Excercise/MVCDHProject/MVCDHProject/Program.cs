@@ -12,8 +12,13 @@ namespace MVCDHProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddIdentity<IdentityUser, IdentityRole>()
-                .AddEntityFrameworkStores<MVCCoreDbContext>();
+
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength = 8;
+                options.Password.RequireDigit = false;
+            }).AddEntityFrameworkStores<MVCCoreDbContext>();
+
             builder.Services.AddDbContext<MVCCoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConStr")));
             //builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
             builder.Services.AddScoped<ICustomerDAL, CustomerSqlDAL>();

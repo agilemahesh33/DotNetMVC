@@ -47,6 +47,7 @@ namespace MVCDHProject.Controllers
             return View(userModel);
         }
         #endregion Registration
+
         #region Login
         [HttpGet]
         public IActionResult Login()
@@ -54,9 +55,21 @@ namespace MVCDHProject.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Login(LoginModel model)
+        public async Task<IActionResult> Login(LoginModel loginModel)
         {
-            return View(model);
+            if (ModelState.IsValid)
+            {
+                var result = await signInManager.PasswordSignInAsync(loginModel.Name, loginModel.Password, loginModel.RememberMe, false);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Invalid Login Credentials");
+                }
+            }
+            return View(loginModel);
         }
         #endregion Login
     }
