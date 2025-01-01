@@ -1,4 +1,6 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using MVCDHProject.Models;
 
@@ -11,7 +13,11 @@ namespace MVCDHProject
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(configure =>
+            {
+                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+                configure.Filters.Add(new AuthorizeFilter(policy));
+            });
 
             builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
             {

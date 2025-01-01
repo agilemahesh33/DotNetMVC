@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MVCDHProject.Models;
 
 namespace MVCDHProject.Controllers
 {
+    [Authorize]
     public class CustomerController : Controller
     {
         private readonly ICustomerDAL dal;
@@ -11,15 +13,17 @@ namespace MVCDHProject.Controllers
         {
             this.dal = dal;
         }
+        [AllowAnonymous]
         public IActionResult DisplayCustomers()
         {
             var customer = dal.Select_Customers();
             return View(customer);
         }
+        [AllowAnonymous]
         public IActionResult DisplayCustomer(int CustId)
         {
             var customer = dal.Select_Customer(CustId);
-            if(customer==null)
+            if (customer == null)
             {
                 throw new Exception("No Customer Exists with Given Customer ID");
             }
