@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|solutionrelative:mvcdhproject\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7ADF7C0-E4B7-47C8-B1BE-AB9EF0CA0706}|MVCDHProject\\MVCDHProject.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvcdhproject\\mvcdhproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,28 +78,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCDHProject\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCDHProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAACAmZmZmZkBwAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T00:10:28.698Z",
+              "DocumentIndex": 3,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "MVCDHProject\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "MVCDHProject\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T13:01:36.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "MVCDHProject\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "MVCDHProject\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAABwAAABAmZmZmZktwCUAAAAiAAAAAAAAAA==",
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "MVCDHProject\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "MVCDHProject\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T02:55:19.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Models\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "MVCDHProject\\Models\\ChangePasswordModel.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Models\\ChangePasswordModel.cs",
+              "RelativeToolTip": "MVCDHProject\\Models\\ChangePasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T00:10:12.023Z",
+              "WhenOpened": "2025-01-02T02:21:39.74Z",
               "EditorCaption": ""
             },
             {
@@ -123,22 +136,9 @@
               "RelativeDocumentMoniker": "MVCDHProject\\Views\\Account\\Login.cshtml",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAABAvScAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-31T08:28:48.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Program.cs",
-              "RelativeDocumentMoniker": "MVCDHProject\\Program.cs",
-              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Program.cs",
-              "RelativeToolTip": "MVCDHProject\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T11:49:07.048Z",
               "EditorCaption": ""
             },
             {
@@ -149,7 +149,7 @@
               "RelativeDocumentMoniker": "MVCDHProject\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCDHProject\\MVCDHProject\\Controllers\\AccountController.cs",
               "RelativeToolTip": "MVCDHProject\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAFUAAACAZmZmZmYqwGgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T12:01:22.918Z",
               "EditorCaption": ""

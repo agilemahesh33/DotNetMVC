@@ -71,16 +71,16 @@ namespace MVCDHProject.Controllers
         }
         #endregion Registration
 
-        #region Email Sending Logic
+        #region Email Sending Confirmation Logic
         public void SendEmail(IdentityUser identityUser, string requestURL, string subject)
         {
             StringBuilder mailBody = new StringBuilder();
             mailBody.Append("Hello " + identityUser.UserName + "<br /><br />");
-            if (subject== "Email Confirmation Link")
+            if (subject == "Email Confirmation Link")
             {
                 mailBody.Append("Click on the link below to confirm Email : ");
             }
-            else if (subject== "Change Password Link")
+            else if (subject == "Change Password Link")
             {
                 mailBody.Append("Click on the link below to reset password : ");
             }
@@ -102,10 +102,52 @@ namespace MVCDHProject.Controllers
 
             SmtpClient smtpClient = new SmtpClient();
             smtpClient.Connect("smtp.gmail.com", 465, true);
-            smtpClient.Authenticate("mahesh.baradkar18@gmail.com","");
+            smtpClient.Authenticate("mahesh.baradkar18@gmail.com", "lgcb ypxj tdzi kbmi");
             smtpClient.Send(mailMessage);
         }
+
+        public async Task<IActionResult> ConfirmEmail(string userId, string token)
+        {
+            if (userId != null && token != null)
+            {
+                var User = await userManager.FindByIdAsync(userId);
+                if (User != null)
+                {
+                    var result = await userManager.ConfirmEmailAsync(User, token);
+                    if (result.Succeeded)
+                    {
+                        TempData["Title"] = "Email Confirmation Success.";
+                        TempData["Message"] = "Email confirmation is completed. You can now login into the application.";
+                        return View("DisplayMessages");
+                    }
+                    else
+                    {
+                        StringBuilder Errors = new StringBuilder();
+                        foreach (var Error in result.Errors)
+                        {
+                            Errors.Append(Error.Description + ". ");
+                        }
+                        TempData["Title"] = "Confirmation Email Failure";
+                        TempData["Message"] = Errors.ToString();
+                        return View("DisplayMessages");
+                    }
+                }
+                else
+                {
+                    TempData["Title"] = "Invalid User Id.";
+                    TempData["Message"] = "User Id which is present in confirm email link is in-valid.";
+                    return View("DisplayMessages");
+                }
+            }
+            else
+            {
+                TempData["Title"] = "Invalid Email Confirmation Link.";
+                TempData["Message"] = "Email confirmation link is invalid, either missing the User Id or Confirmation Token.";
+                return View("DisplayMessages");
+            }
+        }
         #endregion Email Sending Logic
+
         #region Login
         [HttpGet]
         public IActionResult Login()
@@ -117,6 +159,7 @@ namespace MVCDHProject.Controllers
         {
             if (ModelState.IsValid)
             {
+                //Code to check whether Email is confirmed or not
                 var user = await userManager.FindByNameAsync(loginModel.Name);
                 if (user != null && (await userManager.CheckPasswordAsync(user, loginModel.Password)) && user.EmailConfirmed == false)
                 {
@@ -146,7 +189,42 @@ namespace MVCDHProject.Controllers
         }
         #endregion Login
 
-        #region Logout
+        #region Forgot Password
+        [HttpGet]
+        public IActionResult ForgotPassword()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(ChangePasswordModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var User = await userManager.FindByNameAsync(model.Name);
+                if (User != null && await userManager.IsEmailConfirmedAsync(User))
+                {
+                    var token = await userManager.GeneratePasswordResetTokenAsync(User);
+                    var confirmationUrlLink = Url.Action("ChangePassword", "Account", new { UserId = User.Id, Token = token }, Request.Scheme);
+                    SendEmail(User, confirmationUrlLink, "Change Password Link");
+                    TempData["Title"] = "Change Password Link";
+                    TempData["Message"] = "Change password link has been sent to your mail, click on it and change password.";
+                    return View("DisplayMessages");
+                }
+                else
+                {
+                    TempData["Title"] = "Change Password Mail Generation Failed.";
+                    TempData["Message"] = "Either the Username you have entered is in-valid or your email is not confirmed.";
+                    return View("DisplayMessages");
+                }
+            }
+            else
+            {
+                return View(model);
+            }
+        }
+        #endregion ForgotPassword
+
+            #region Logout
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();

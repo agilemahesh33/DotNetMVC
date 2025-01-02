@@ -292,3 +292,6 @@ D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\MailKit.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\MimeKit.dll

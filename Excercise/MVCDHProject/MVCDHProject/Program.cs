@@ -23,7 +23,7 @@ namespace MVCDHProject
             {
                 options.Password.RequiredLength = 8;
                 options.Password.RequireDigit = false;
-            }).AddEntityFrameworkStores<MVCCoreDbContext>();
+            }).AddEntityFrameworkStores<MVCCoreDbContext>().AddDefaultTokenProviders();
 
             builder.Services.AddDbContext<MVCCoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConStr")));
             //builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
