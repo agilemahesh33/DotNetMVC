@@ -222,9 +222,45 @@ namespace MVCDHProject.Controllers
                 return View(model);
             }
         }
+
+        [HttpGet]
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ChangePassword(ResetPasswordModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var User = await userManager.FindByIdAsync(model.UserId);
+                if (User != null)
+                {
+                    var result = await userManager.ResetPasswordAsync(User, model.Token, model.Password);
+                    if (result.Succeeded)
+                    {
+                        TempData["Title"] = "Reset Password Success";
+                        TempData["Message"] = "Your password has been reset successfully.";
+                        return View("DisplayMessages");
+                    }
+                    else
+                    {
+                        foreach (var Error in result.Errors)
+                            ModelState.AddModelError("", Error.Description);
+                    }
+                }
+                else
+                {
+                    TempData["Title"] = "Invalid User";
+                    TempData["Message"] = "No user exists with the given User Id.";
+                    return View("DisplayMessages");
+                }
+            }
+            return View(model);
+        }
         #endregion ForgotPassword
 
-            #region Logout
+        #region Logout
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
