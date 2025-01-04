@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\customer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Customer.xml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Customer.xml",
               "RelativeDocumentMoniker": "CoreWebApiService\\Customer.xml",
@@ -83,52 +83,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "web.config",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\web.config",
               "RelativeDocumentMoniker": "CoreWebApiService\\web.config",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\web.config",
               "RelativeToolTip": "CoreWebApiService\\web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-01-04T11:27:30.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Program.cs",
               "RelativeDocumentMoniker": "CoreWebApiService\\Program.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Program.cs",
               "RelativeToolTip": "CoreWebApiService\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAwMzMzMzMrwBUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T11:23:26.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CoreWebApiService\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CoreWebApiService\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwIUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-04T10:24:49.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CoreWebApiService\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CoreWebApiService\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T10:24:08.272Z",
               "EditorCaption": ""

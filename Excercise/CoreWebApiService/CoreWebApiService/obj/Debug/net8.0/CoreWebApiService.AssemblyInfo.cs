@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreWebApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a242147c0d37a97e8b31a4d97b1b35b157d93449")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b75e107c2a2c7a633d9e7666a6331120fdd9b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreWebApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreWebApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

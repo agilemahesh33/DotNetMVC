@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiConsumer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA8FF2-9D35-425A-A37D-63C9CC362DB4}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiconsumer1\\corewebapiconsumer1\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA8FF2-9D35-425A-A37D-63C9CC362DB4}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA8FF2-9D35-425A-A37D-63C9CC362DB4}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiconsumer1\\corewebapiconsumer1\\views\\testapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFA8FF2-9D35-425A-A37D-63C9CC362DB4}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\views\\testapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T12:38:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestApiController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:38:21.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

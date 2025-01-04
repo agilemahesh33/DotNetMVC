@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCCoreTagHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09c2a681d7d7ef03fe3197ed627db4f5ecda4b4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a242147c0d37a97e8b31a4d97b1b35b157d93449")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCCoreTagHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCCoreTagHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

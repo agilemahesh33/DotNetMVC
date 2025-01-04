@@ -1,0 +1,145 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Api Core</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+            integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+            crossorigin="anonymous">
+    </script>
+    <script>
+        $(document).ready(function () {
+                GetCustomers();
+              });
+
+              function GetCustomers() {
+                $.ajax({
+                  url: 'http://localhost/CoreWebApiService/Customer',
+                  type: 'GET',
+                  dataType: 'json',
+                  success: function (Customers) {
+                    $("#tblCustomers tbody").empty();
+                    $("#tblCustomers").append("<tr><td><input id='custid' type='text' style='width: 50px'/></td><td><input id='name' type='text' /></td><td><input id='balance' type='text' /></td><td><input id='city' type='text' /></td><td align='center'><input id='status' type='checkbox' /></td><td align='center'><input type='button' id='insert' value='Insert' onclick='AddCustomer()' /></td></tr>");
+                    $.each(Customers, function (index, Customer) {
+                      $("#tblCustomers").append(BuildCustomerRow(Customer));
+                    });
+                  },
+                  error: function (request) {
+                    HandleException(request);
+                  }
+                });
+              }
+              function BuildCustomerRow(Customer) {
+                var NewRow = "<tr>" + "<td align='center'>" + Customer.custid + "</td>" +
+                    "<td><input type='text' class='input-name' value='" + Customer.name + "'/></td>" +
+                    "<td><input type='text' class='input-balance' value='" + Customer.balance + "'/></td>" +
+                    "<td><input type='text' class='input-city' value='" + Customer.city + "'/></td>";
+                if (Customer.status == true)
+                  NewRow += "<td align='center'><input class='input-status' type = 'checkbox' checked /></td>";
+                else
+                  NewRow += "<td align='center'><input class='input-status' type = 'checkbox' /></td>";
+
+                  NewRow += "<td><button type='button' onclick='UpdateCustomer(this);' data-custid='" +
+                  Customer.custid + "'>Update</button>";
+                  NewRow += "<button type='button' onclick='DeleteCustomer(this);' data-custid='" +
+                  Customer.custid + "'>Delete</button>";
+                  NewRow += "</td></tr>";
+                  return NewRow;
+              }
+              function HandleException(request) {
+                var msg = "";
+                msg += "Code: " + request.status + "\n";
+                msg += "Text: " + request.statusText + "\n";
+                if (request.responseJSON != null) {
+                  msg += "Message" + request.responseJSON.Message + "\n";
+                }
+                alert(msg);
+              }
+              var Customer = {
+                custid: 0,
+                name: "",
+                balance: 0,
+                city: "",
+                status: false
+              }
+              function AddCustomer() {
+                var obj = Customer;
+                obj.custid = $("#custid").val();
+                obj.name = $("#name").val();
+                obj.balance = $("#balance").val();
+                obj.city = $("#city").val();
+                obj.status = $("#status").is(":checked");
+
+                var options = {};
+                options.url = "http://localhost/CoreWebApiService/Customer";
+                options.type = "POST";
+                options.contentType = "application/json";
+                options.dataType = "json";
+                options.data = JSON.stringify(obj);
+                options.success = function () {
+                  GetCustomers();
+                  $("#divMsgs").html("Insert operations is successful.");
+                }
+                options.error = function () {
+                  $("#divMsgs").html("Error while performing insert operation!");
+                }
+                $.ajax(options);
+              }
+              function UpdateCustomer(button) {
+                var obj = Customer;
+                obj.custid = $(button).data("custid");
+                obj.name = $(".input-name", $(button).parent().parent()).val();
+                obj.balance = $(".input-balance", $(button).parent().parent()).val();
+                obj.city = $(".input-city", $(button).parent().parent()).val();
+                obj.status = $(".input-status", $(button).parent().parent()).is(":checked");
+
+                var options = {};
+                options.url = "http://localhost/CoreWebApiService/Customer";
+                options.type = "PUT";
+                options.contentType = "application/json";
+                options.dataType = "json";
+                options.data = JSON.stringify(obj);
+                options.success = function () {
+                  GetCustomers();
+                  $("#divMsgs").html("Update operations is successful.");
+                }
+                options.error = function () {
+                  $("#divMsgs").html("Error while performing update operation!");
+                }
+                $.ajax(options);
+              }
+              function DeleteCustomer(button) {
+                $.ajax({
+                  url: 'http://localhost/CoreWebApiService/Customer/' + $(button).data("custid"),
+                  type: 'DELETE',
+                  dataType: 'json',
+                  success: function () {
+                    GetCustomers();
+                    $("#divMsgs").html("Delete operations is successful.");
+                  },
+                  error: function () {
+                    $("#divMsgs").html("Error while performing delete operation!");
+                  }
+                });
+              }
+    </script>
+</head>
+<body style="background-color:cornflowerblue">
+    <form>
+        <table align="center" id="tblCustomers" border="1">
+            <thead>
+                <tr>
+                    <th>Custid</th>
+                    <th>Name</th>
+                    <th>Balance</th>
+                    <th>City</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <br />
+        <div id="divMsgs" style="color:red"></div>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreWebApiConsumer1.props" />
+</Project>

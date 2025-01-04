@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,10 +93,6 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EmailTagHelper.cs",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\TagHelpers\\EmailTagHelper.cs",
               "ViewState": "AgIAAA4AAABAMzMzMzMhwBoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T09:13:19.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T09:13:19.512Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T05:45:42.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T05:45:42.02Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T05:43:54.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T05:43:54.219Z"
             },
             {
               "$type": "Document",
@@ -158,8 +151,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T13:37:58.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T13:37:58.034Z"
             },
             {
               "$type": "Document",
@@ -171,8 +163,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\MVCCoreTagHelpers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-26T13:33:27.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T13:33:27.478Z"
             },
             {
               "$type": "Document",
@@ -184,8 +175,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Properties\\launchSettings.json",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T06:01:10.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T06:01:10.783Z"
             },
             {
               "$type": "Document",
@@ -197,8 +187,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T05:54:39.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T05:54:39.829Z"
             },
             {
               "$type": "Document",
@@ -210,8 +199,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:28:56.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T13:28:56.641Z"
             },
             {
               "$type": "Document",
@@ -223,8 +211,7 @@
               "RelativeToolTip": "MVCCoreTagHelpers\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:36:58.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T13:36:58.363Z"
             },
             {
               "$type": "Document",

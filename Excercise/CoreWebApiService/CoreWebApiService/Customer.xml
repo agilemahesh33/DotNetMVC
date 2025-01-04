@@ -35,4 +35,11 @@
     <City>Hyderabad</City>
     <Status>True</Status>
   </Customer>
+  <Customer>
+    <Custid>106</Custid>
+    <Name>Deepak</Name>
+    <Balance>76340</Balance>
+    <City>Delhi</City>
+    <Status>True</Status>
+  </Customer>
 </Customers>

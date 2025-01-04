@@ -1,3 +1,15 @@
+maheshtoken
+
+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
+
+Mahesh Classic+++++++++++
+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
+
+git config --global user.name "agilemahesh33"
+git config --global user.password "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"
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 To clone and initialize new empty/files/folders repo
 git clone <URL.git>
 git init
@@ -20,6 +32,23 @@ git push -u origin main
 
 ===========
 
+Edit last pushed comment 
+
+1. 
+git commit --amend -m "New commit message"
+
+:The --amend flag allows you to modify the most recent commit.
+:The -m flag specifies the new commit message.
+2. If the commit is already pushed to a remote repository, you'll need to force-push the changes:
+
+git push --force
+
+3. If you want to edit the message interactively (e.g., to open a text editor):
+
+git commit --amend
+
+
++++++++++++++++++++++++++++++++++
 To Clean git / untrack the files 
 git clean -i   // which shows options what to do about the changes
 
