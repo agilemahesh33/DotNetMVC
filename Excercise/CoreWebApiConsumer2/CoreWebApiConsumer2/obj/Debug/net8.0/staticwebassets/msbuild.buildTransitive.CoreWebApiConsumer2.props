@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CoreWebApiConsumer2.props" />
+</Project>
