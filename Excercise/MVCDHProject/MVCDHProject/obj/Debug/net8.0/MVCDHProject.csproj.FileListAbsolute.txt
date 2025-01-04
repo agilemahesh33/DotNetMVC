@@ -295,3 +295,5 @@ D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\MailKit.dll
 D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\MimeKit.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\MVCDHProject\MVCDHProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll

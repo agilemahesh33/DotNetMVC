@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\mvccoredbf\\mvccoredbf\\models\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636AEAB-F244-4264-BEB6-BBE6D25910DC}|MVCCoreDBF\\MVCCoreDBF.csproj|solutionrelative:mvccoredbf\\models\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "MVCCoreDBF\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:07:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MVCCoreDBF\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:06:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "MVCCoreDBF\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:05:55.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "MVCCoreDBF\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T23:26:55.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreDBF\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T23:13:28.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Program.cs",
+              "RelativeToolTip": "MVCCoreDBF\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:53:18.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MVCCoreDBF\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAGkAAAAAODMzMzMLwHkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:51:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MvcdbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Models\\MvcdbContext.cs",
+              "RelativeDocumentMoniker": "MVCCoreDBF\\Models\\MvcdbContext.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\MVCCoreDBF\\MVCCoreDBF\\Models\\MvcdbContext.cs",
+              "RelativeToolTip": "MVCCoreDBF\\Models\\MvcdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:45:25.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

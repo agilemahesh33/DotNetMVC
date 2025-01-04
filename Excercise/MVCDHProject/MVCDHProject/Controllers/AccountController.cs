@@ -6,6 +6,7 @@ using MVCDHProject.Models;
 using System.Text;
 using MimeKit;
 using MailKit.Net.Smtp;
+using System.Security.Claims;
 
 namespace MVCDHProject.Controllers
 {
@@ -268,5 +269,62 @@ namespace MVCDHProject.Controllers
         }
 
         #endregion Logout
+
+        #region External Login / Open Auth
+        public IActionResult ExternalLogin(string returnUrl, string Provider)
+        {
+            var url = Url.Action("CallBack", "Account", new
+            {
+                ReturnUrl = returnUrl
+            });
+            var properties = signInManager.ConfigureExternalAuthenticationProperties(Provider, url);
+            return new ChallengeResult(Provider, properties);
+        }
+        public async Task<IActionResult> CallBack(string returnUrl)
+        {
+            if (string.IsNullOrEmpty(returnUrl))
+            {
+                returnUrl = "~/";
+            }
+            LoginModel model = new LoginModel();
+            var info = await signInManager.GetExternalLoginInfoAsync();
+            if (info == null)
+            {
+                ModelState.AddModelError("", "Error loading external login information.");
+                return View("Login", model);
+            }
+            var signInResult = await signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, false, true);
+            if (signInResult.Succeeded)
+            {
+                return LocalRedirect(returnUrl);
+            }
+            else
+            {
+                var email = info.Principal.FindFirstValue(ClaimTypes.Email);
+                if (email != null)
+                {
+                    var user = await userManager.FindByEmailAsync(email);
+                    if (user == null)
+                    {
+                        user = new IdentityUser
+                        {
+                            UserName = info.Principal.FindFirstValue(ClaimTypes.Email),
+                            Email = info.Principal.FindFirstValue(ClaimTypes.Email),
+                            PhoneNumber = info.Principal.FindFirstValue(ClaimTypes.MobilePhone),
+                        };
+                        var identityResult = await userManager.CreateAsync(user);
+                    }
+                    await userManager.AddLoginAsync(user, info);
+                    await signInManager.SignInAsync(user, false);
+                    return LocalRedirect(returnUrl);
+                }
+                TempData["Title"] = "Error";
+                TempData["Message"] = "Email claim not received from third party provided.";
+                return RedirectToAction("DisplayMessages");
+            }
+        }
+
+
+        #endregion External Login / Open Auth
     }
 }

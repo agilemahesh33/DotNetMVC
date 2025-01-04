@@ -28,6 +28,13 @@ namespace MVCDHProject
             builder.Services.AddDbContext<MVCCoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConStr")));
             //builder.Services.AddScoped<ICustomerDAL, CustomerXmlDAL>();
             builder.Services.AddScoped<ICustomerDAL, CustomerSqlDAL>();
+
+            //Need to install two packages to work with Open Authentication
+            //Microsoft.AspNetCore.Authentication.Google
+            //Microsoft.AspNetCore.Authentication.Facebook
+            //setup Google App and Facebook App write ID and Secrete Generated here
+            
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

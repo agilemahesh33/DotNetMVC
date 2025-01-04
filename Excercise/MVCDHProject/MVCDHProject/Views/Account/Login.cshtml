@@ -5,10 +5,10 @@
     var returnUrl = Context.Request.Query["ReturnUrl"];
 }
 
-<h1>Login Page</h1>
+<h1>Login With</h1>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6">
         <form asp-action="Login" asp-route-ReturnUrl="@returnUrl">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -29,6 +29,14 @@
             <div class="form-group">
                 <input type="submit" value="Login" class="btn btn-primary" />
             </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <h3>Google or Facebook</h3>
+        <hr />
+        <form asp-action="ExternalLogin" asp-route-returnUrl="@returnUrl">
+            <input type="submit" name="Provider" value="Google" class="btn btn-primary" />
+            <input type="submit" name="Provider" value="Facebook" class="btn btn-primary" />
         </form>
     </div>
 </div>
