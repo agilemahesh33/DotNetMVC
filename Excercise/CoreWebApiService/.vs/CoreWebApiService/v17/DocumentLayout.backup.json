@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\models\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\models\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\models\\customerxmldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\models\\customerxmldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\customer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\customer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corewebapiservice\\corewebapiservice\\corewebapiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E94F7170-E1A0-4E39-A8A5-3C3FFAF11863}|CoreWebApiService\\CoreWebApiService.csproj|solutionrelative:corewebapiservice\\corewebapiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Program.cs",
+              "RelativeToolTip": "CoreWebApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:53:56.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerXmlDAL.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\CustomerXmlDAL.cs",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Models\\CustomerXmlDAL.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\CustomerXmlDAL.cs",
+              "RelativeToolTip": "CoreWebApiService\\Models\\CustomerXmlDAL.cs",
+              "ViewState": "AgIAAD0AAAAAzczMzMwuwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:51:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Models\\Customer.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\Customer.cs",
+              "RelativeToolTip": "CoreWebApiService\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:22:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerDAL.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\ICustomerDAL.cs",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Models\\ICustomerDAL.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Models\\ICustomerDAL.cs",
+              "RelativeToolTip": "CoreWebApiService\\Models\\ICustomerDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:21:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.xml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Customer.xml",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Customer.xml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Customer.xml",
+              "RelativeToolTip": "CoreWebApiService\\Customer.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-04T08:18:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CoreWebApiService\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CoreWebApiService\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:18:00.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoreWebApiService",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\CoreWebApiService.csproj",
+              "RelativeDocumentMoniker": "CoreWebApiService\\CoreWebApiService.csproj",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreWebApiService\\CoreWebApiService\\CoreWebApiService.csproj",
+              "RelativeToolTip": "CoreWebApiService\\CoreWebApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T08:18:31.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
