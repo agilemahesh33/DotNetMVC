@@ -35,3 +35,6 @@ D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\
 D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\Debug\net8.0\CoreWebApiService.pdb
 D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\Debug\net8.0\CoreWebApiService.genruntimeconfig.cache
 D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\Debug\net8.0\ref\CoreWebApiService.dll
+D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\Debug\net8.0\CoreWebApiService.RazorAssemblyInfo.cache
+D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\obj\Debug\net8.0\CoreWebApiService.RazorAssemblyInfo.cs
+D:\Dot Net Core NIT\DotNetMVC\Excercise\CoreWebApiService\CoreWebApiService\bin\Debug\net8.0\web.config

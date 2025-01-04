@@ -28,4 +28,11 @@
     <City>Mumbai</City>
     <Status>True</Status>
   </Customer>
+  <Customer>
+    <Custid>105</Custid>
+    <Name>Mahesh</Name>
+    <Balance>76300</Balance>
+    <City>Hyderabad</City>
+    <Status>True</Status>
+  </Customer>
 </Customers>
