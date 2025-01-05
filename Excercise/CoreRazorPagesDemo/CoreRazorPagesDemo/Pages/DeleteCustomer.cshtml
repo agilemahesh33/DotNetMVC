@@ -1,0 +1,31 @@
+﻿@page
+@model DeleteCustomerModel
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+<form method="post">
+    <div>
+        <label>Custid:</label><br />
+        <input asp-for="@Model.Customer.CustId" readonly />
+    </div>
+    <div>
+        <label>Name:</label><br />
+        <input asp-for="@Model.Customer.Name" readonly />
+    </div>
+    <div>
+        <label>Balance:</label><br />
+        <input asp-for="@Model.Customer.Balance" readonly />
+    </div>
+    <div>
+        <label>City:</label><br />
+        <input asp-for="@Model.Customer.City" readonly />
+    </div>
+    <div>
+        <label>Status:</label><br />
+        <input asp-for="@Model.Customer.Status" disabled />
+    </div>
+    <div>
+        <input type="submit" value="Delete" />
+        <a asp-page="Index" align="center">Cancel</a>
+    </div>
+</form>

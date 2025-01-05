@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\displaycustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\displaycustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\deletecustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\deletecustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\editcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\editcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\addcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\addcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\pages\\displaycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\pages\\displaycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|d:\\dot net core nit\\dotnetmvc\\excercise\\corerazorpagesdemo\\corerazorpagesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C018C-ED47-4FA3-ACB6-1618552103B3}|CoreRazorPagesDemo\\CoreRazorPagesDemo.csproj|solutionrelative:corerazorpagesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCustomer.cshtml.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml.cs",
+              "ViewState": "AgIAAAkAAADAzMzMzMwQwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:04:37.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T05:38:14.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditCustomer.cshtml.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:29:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayCustomer.cshtml.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:24:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCustomer.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\EditCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T05:21:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCustomer.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\DeleteCustomer.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T05:22:02.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCustomer.cshtml.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\AddCustomer.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:39:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisplayCustomer.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\DisplayCustomer.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T05:21:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:02:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T05:02:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CoreRazorPagesDemo\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core NIT\\DotNetMVC\\Excercise\\CoreRazorPagesDemo\\CoreRazorPagesDemo\\Program.cs",
+              "RelativeToolTip": "CoreRazorPagesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T04:50:19.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

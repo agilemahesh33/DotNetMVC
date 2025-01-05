@@ -1,3 +1,5 @@
+using CoreRazorPagesDemo.Models;
+
 namespace CoreRazorPagesDemo
 {
     public class Program
@@ -8,7 +10,7 @@ namespace CoreRazorPagesDemo
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-
+            builder.Services.AddDbContext<MvcdbContext>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

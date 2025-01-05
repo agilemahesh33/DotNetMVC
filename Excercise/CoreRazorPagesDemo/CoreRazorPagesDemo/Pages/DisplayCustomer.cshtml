@@ -1,0 +1,33 @@
+﻿@page
+@model DisplayCustomerModel
+@{
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:red">Customer Details</h2>
+<table border="1" align="center" class="table-condensed">
+    <tr>
+        <td>Cusid:</td>
+        <td>@Model.Customer.CustId</td>
+    </tr>
+    <tr>
+        <td>Name:</td>
+        <td>@Model.Customer.Name</td>
+    </tr>
+    <tr>
+        <td>Balance:</td>
+        <td>@Model.Customer.Balance</td>
+    </tr>
+    <tr>
+        <td>City:</td>
+        <td>@Model.Customer.CustId</td>
+    </tr>
+    <tr>
+        <td>Status:</td>
+        <td><input type="checkbox" asp-for="@Model.Customer.Status" disabled /></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a asp-page="Index">Back to Customer Details</a>
+        </td>
+    </tr>
+</table>
+

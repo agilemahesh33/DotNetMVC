@@ -1,10 +1,36 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Display Customers";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2 style="text-align:center;background-color:yellowgreen;color:red">Customer Details</h2>
+<table border="1" class="table table-bordered">
+    <tr>
+        <th>Custid</th>
+        <th>Name</th>
+        <th>Balance</th>
+        <th>City</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var customer in Model.Customers)
+    {
+        <tr>
+            <td align="center">@customer.CustId</td>
+            <td>@customer.Name</td>
+            <td>@customer.Balance</td>
+            <td>@customer.City</td>
+            <td align="center"><input type="checkbox" asp-for="@customer.Status" disabled /></td>
+            <td>
+                <a asp-page="DisplayCustomer" asp-route-Custid="@customer.CustId">View</a> &nbsp;
+                <a asp-page="EditCustomer" asp-route-Custid="@customer.CustId">Edit</a> &nbsp;
+                <a asp-page="DeleteCustomer" asp-route-Custid="@customer.CustId">Delete</a>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="6" align="center">
+            <a asp-page="AddCustomer">Add New Customer</a>
+        </td>
+    </tr>
+</table>

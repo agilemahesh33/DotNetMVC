@@ -1,0 +1,25 @@
+﻿@page
+@model AddCustomerModel
+@{
+    ViewData["Title"] = "Add Customer";
+}
+<h2 style="text-align:center;background-color:yellowgreen;color:red">Customer Details</h2>
+<form method="post">
+    <div>
+        <label>Custid:</label><br /><input asp-for="@Model.Customer.CustId" />
+    </div>
+    <div>
+        <label>Name:</label><br /><input asp-for="@Model.Customer.Name" />
+    </div>
+    <div>
+        <label>Balance:</label><br /><input asp-for="@Model.Customer.Balance" />
+    </div>
+    <div>
+        <label>City:</label><br /><input asp-for="@Model.Customer.City" />
+    </div>
+    <div>
+        <label>Status:</label><br /><input asp-for="@Model.Customer.Status" />
+    </div>
+    <div><input type="submit" value="Save" /><input type="reset" value="Reset" /></div>
+    <div><a asp-page="Index" align="center">Back to Customer Details</a></div>
+</form>
