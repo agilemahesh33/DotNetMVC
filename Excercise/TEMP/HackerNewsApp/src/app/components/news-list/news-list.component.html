@@ -1,0 +1,20 @@
+<!-- src/app/components/news-list/news-list.component.html -->
+<div class="container">
+    <h2>Hacker News - Newest Stories</h2>
+    <input [(ngModel)]="searchTerm" (input)="onSearch()" placeholder="Search stories..." class="search-input" />
+  
+    <ul>
+      <li *ngFor="let story of filteredStories">
+        <a *ngIf="story.url" [href]="story.url" target="_blank">{{ story.title }}</a>
+        <span *ngIf="!story.url">{{ story.title }}</span>
+        <small> - by {{ story.by }} (Score: {{ story.score }})</small>
+      </li>
+    </ul>
+  
+    <div class="pagination">
+      <button (click)="changePage(-1)" [disabled]="page === 1">Previous</button>
+      <span>Page {{ page }}</span>
+      <button (click)="changePage(1)">Next</button>
+    </div>
+  </div>
+  

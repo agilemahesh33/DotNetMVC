@@ -1,0 +1,18 @@
+<div class="container">
+    <h2>Hacker News - Newest Stories</h2>
+  
+    <input type="text" [(ngModel)]="searchText" (input)="onSearch()" placeholder="Search stories..." class="search-box" />
+  
+    <ul>
+      <li *ngFor="let story of filteredStories">
+        <a [href]="story.url" target="_blank">{{ story.title }}</a>
+      </li>
+    </ul>
+  
+    <div class="pagination">
+      <button (click)="prevPage()" [disabled]="page === 1">Prev</button>
+      <span>Page {{ page }}</span>
+      <button (click)="nextPage()">Next</button>
+    </div>
+  </div>
+  
