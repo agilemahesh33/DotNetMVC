@@ -1,0 +1,51 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+.vs/
+*.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Other temp files
+*.tmp
+*.bak
+*.backup
+*.swp
+
+# Publish folder
+publish/
+
+# Rider IDE
+.idea/
+
+# DotCover
+*.dotCover
+
+# Entity Framework
+Migrations/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper

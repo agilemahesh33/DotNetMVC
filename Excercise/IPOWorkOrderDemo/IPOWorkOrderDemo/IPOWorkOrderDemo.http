@@ -1,0 +1,6 @@
+@IPOWorkOrderDemo_HostAddress = http://localhost:5067
+
+GET {{IPOWorkOrderDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
