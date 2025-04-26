@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace BuilderDP
 {
-    internal class CellPhoneBuilder
+    internal class SamsungPhoneBuilder : ICellPhoneBuilder
     {
+        private string brand = "Samsung";
         private string os;
         private string processor;
         private double screenSize;
@@ -15,27 +16,27 @@ namespace BuilderDP
         private int camera;
 
         //Create Setter Methods for the above fields
-        public CellPhoneBuilder setOS(string os)
+        public ICellPhoneBuilder setOS(string os)
         {
             this.os = os;
             return this;
         }
-        public CellPhoneBuilder setProcessor(string processor)
+        public ICellPhoneBuilder setProcessor(string processor)
         {
             this.processor = processor;
             return this;
         }
-        public CellPhoneBuilder setScreenSize(double screenSize)
+        public ICellPhoneBuilder setScreenSize(double screenSize)
         {
             this.screenSize = screenSize;
             return this;
         }
-        public CellPhoneBuilder setBattery(int battery)
+        public ICellPhoneBuilder setBattery(int battery)
         {
             this.battery = battery;
             return this;
         }
-        public CellPhoneBuilder setCamera(int camera)
+        public ICellPhoneBuilder setCamera(int camera)
         {
             this.camera = camera;
             return this;
@@ -45,7 +46,7 @@ namespace BuilderDP
         //and will return the same
         public CellPhone GetCellPhone()
         {
-            return new CellPhone(os, processor, screenSize, battery, camera);
+            return new CellPhone(brand, os, processor, screenSize, battery, camera);
         }
     }
 }

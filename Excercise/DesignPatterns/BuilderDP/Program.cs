@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            CellPhoneBuilder builder1 = new CellPhoneBuilder();
+            SamsungPhoneBuilder builder1 = new SamsungPhoneBuilder();
             builder1.setCamera(33); 
             builder1.setOS("Android");            
             builder1.setBattery(33000);            
@@ -12,11 +12,10 @@
             Console.WriteLine(phone);
 
             //Single Line Code
-            CellPhone phone1 = new CellPhoneBuilder()
-                .setProcessor("QualCom")
-                .setOS("Android")
+            CellPhone phone1 = new ApplePhoneBuilder()                
+                .setOS("IOS")
                 .setBattery(3210)
-                .setCamera(033)
+                .setCamera(51)
                 .GetCellPhone();            
             Console.WriteLine(phone1);
 
