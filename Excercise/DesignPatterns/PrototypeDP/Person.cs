@@ -24,6 +24,7 @@ namespace PrototypeDP
     //Prototype Class
     public class Person : ICloneable
     {
+        public int Age {  get; set; }
         public string Name { get; set; }
         public Address Address { get; set; }
         public Person(String Name, Address address)
@@ -31,10 +32,14 @@ namespace PrototypeDP
             this.Name = Name;
             this.Address = address;
         }
-        //Shallow Copy (default)
-        public object Clone()
+        public object Clone() // Method of ICloneable
         {
             return this.MemberwiseClone();
+        }
+        //Shallow Copy (default)
+        public Person ShallowClone()  //Object can also be returned
+        {
+            return new Person(this.Name, this.Address) { Age = this.Age };
         }
         //Deep Copy (Custom)
         public Person DeepClone()
