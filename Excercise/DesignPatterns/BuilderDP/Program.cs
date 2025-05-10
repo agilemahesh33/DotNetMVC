@@ -19,6 +19,7 @@
                 .GetCellPhone();            
             Console.WriteLine(phone1);
 
+            // Example: Direct instantiation (not recommended if using builder)
             //CellPhone phone = new CellPhone("Android","Qualcom",15,3300,33);
             //Console.WriteLine(phone);
         }

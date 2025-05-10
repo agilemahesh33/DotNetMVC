@@ -8,7 +8,7 @@ namespace BuilderDP
 {
     internal class SamsungPhoneBuilder : ICellPhoneBuilder
     {
-        private string brand = "Samsung";
+        private readonly string brand = "Samsung";
         private string os;
         private string processor;
         private double screenSize;

@@ -8,7 +8,7 @@ namespace BuilderDP
 {
     internal class ApplePhoneBuilder : ICellPhoneBuilder
     {
-        private string brand = "Apple";
+        private readonly string brand = "Apple";
         private string os;
         private string processor;
         private double screenSize;
