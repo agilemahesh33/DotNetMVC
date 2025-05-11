@@ -14,6 +14,16 @@
 
             IBurger burger = waiter.GetBurger();
             Console.WriteLine(burger.Eat());
+            
+            // Create a waiter by specifying preference
+            waiter = new Waiter("NonVeg");
+
+            // Ask for Pizza and Burger
+            pizza = waiter.GetPizza();
+            Console.WriteLine(pizza.Eat());
+
+            burger = waiter.GetBurger();
+            Console.WriteLine(burger.Eat());
         }
 
         //Simplest and formal way to call
